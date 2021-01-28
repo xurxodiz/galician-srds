@@ -1,3 +1,8 @@
+---
+Title: "Regras opcionais"
+Placing: 8
+---
+
 # Optional Rules
 
 These are a few optional or alternative rules you can decide to use in your game.

@@ -1,26 +1,33 @@
-# Fate Condensed
+---
+Title: "Fate Condensado"
+Placing: 0
+---
 
-Fate Condensed ©2020 Evil Hat Productions, LLC.
+# Fate Condensado
 
-Refer to the licensing pages at [http://www.faterpg.com/licensing](http://www.faterpg.com/licensing/) for details.
+Fate Condensado ©2020 Evil Hat Productions, LLC.
 
-This is the System Reference Document for use with the Creative Commons Attribution Unported license. **The following attribution must be provided in your text, wherever you put your own copyright, in the same size as your copyright text:**
+Consulta as páxinas de licencia sitas en [http://www.faterpg.com/licensing](http://www.faterpg.com/licensing/) para máis detalles.
 
-This work is based on Fate Condensed (found at http://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by PK Sullivan, Ed Turner, Leonard Balsera, Fred Hicks, Richard Bellingham, Robert Hanz, Ryan Macklin, and Sophie Lagacé, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
+Este é o Documento de Referencia do Sistema a ser usado coa licencia Creative Commons Atribución 3.0 Sen adaptar. **A seguinte atribución debe de proveerse no teu texto, onde queira que poñas o teu propio copyright e no mesmo tamaño que o teu texto de copyright:**
 
-## Credits
+Este traballo baséase en Fate Condensado (localizado en http://www.faterpg.com/), un produto de Evil Hat Productions LLC desenvolvido, creado e editado por PK Sullivan, Ed Turner, Leonard Balsera, Fred Hicks, Richard Bellingham, Robert Hanz, Ryan Macklin e Sophie Lagacé, e licenciado para o noso uso baixo a licencia Creative Commons Atribución 3.0 Sen adaptar (https://creativecommons.org/licenses/by/3.0/deed.gl).
 
-Fate Condensed by PK Sullivan, Ed Turner, and Fred Hicks. Additional development by Richard Bellingham, Robert Hanz, and Sophie Lagacé.
+## Créditos
 
-Based on prior works by Rob Donoghue, Fred Hicks, Leonard Balsera, Ryan Macklin, Clark Valentine, Mike Olson, Brian Engard, and Sophie Lagacé.
+Fate Condensado é obra de PK Sullivan, Ed Turner e Fred Hicks, con desenvolvementos adicionais obra de Richard Bellingham, Robert Hanz e Sophie Lagacé.
 
-Based on Fate Core System by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, and Mike Olson and Fate Accelerated Edition by Clark Valentine.
+Baseado en obras previas de Rob Donoghue, Fred Hicks, Leonard Balsera, Ryan Macklin, Clark Valentine, Mike Olson, Brian Engard e Sophie Lagacé.
 
-Turn order system based on “Accidentally Designing Marvel’s Action Order System,” written by Fred Hicks and describing a variation on a method originally devised by Leonard Balsera.
+Baseado no sistema Fate Básico obra de Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin e Mike Olson, e na Edición Acelerada de Clark Valentine.
 
-Portions of this work are based on Fateful Concepts: Hacking Contests by Ryan Macklin, licensed for our use under the Creative Commons Attribution 3.0 Unported license.
+O sistema de orde de turnos baséase en *“Accidentally Designing Marvel’s Action Order System”*, escrito por Fred Hicks, o cal describe unha variante dun método orixinalmente inxeniado por Leonard Balsera.
 
-### Credits for this SRD document
+Partes desta obra baseánse en *Fateful Concepts: Hacking Contests* de Ryan Macklin, licenciado para o noso uso baixo a licencia Creative Commons Atribución 3.0 Sen adaptar.
 
-* **Randy Oest**, aka [Amazing Rando](https://randyoest.com/) ([Project Owner](https://github.com/amazingrando/fate-srd-content))
+A fonte Fate Core é © Evil Hat Productions LLC e úsase baixo permiso. As iconas das catro accións foron deseñadas por Jeremy Keller.
+
+### Créditos deste documento SRD
+
+* **Randy Oest**, alias [Amazing Rando](https://randyoest.com/) ([dono do proxecto](https://github.com/amazingrando/fate-srd-content))
 * [**Xurxo Diz Pico**](http://xurxodiz.eu) (tradución ao galego)

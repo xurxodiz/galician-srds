@@ -1,3 +1,8 @@
+---
+Title: "Dirixir o xogo"
+Placing: 7
+---
+
 # Being the Game Master
 
 As the GM, you are the director of game sessions. Note that you are not the _boss._ _Fate Condensed_ is collaborative, and the players have say in what happens to their characters. Your job is to keep things moving by doing these things:

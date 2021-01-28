@@ -1,3 +1,8 @@
+---
+Title: "Desafíos, conflitos e competicións"
+Placing: 5
+---
+
 # Challenges, Conflicts, and Contests
 
 Many times, you will be able to resolve an action with a single roll of the dice—do you crack the safe, avoid security, or convince the reporter to give you their notes? Other times you’ll face extended engagements that take many rolls to resolve. For those cases, we offer three resolution tools: **challenges**, **contests**, and **conflicts**. Each does things a little differently, depending on the goal of the engagement and the opposition involved.

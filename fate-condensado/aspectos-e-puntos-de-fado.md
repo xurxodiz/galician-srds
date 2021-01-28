@@ -1,3 +1,8 @@
+---
+Title: "Aspectos e puntos de fado"
+Placing: 4
+---
+
 # Aspects and Fate Points
 
 <a id="_idTextAnchor013"></a>An **aspect** is a word or phrase that describes something special about a person, place, thing, situation, or group. Almost anything you can think of can have aspects. A person might have a reputation as the **Greatest Sharpshooter in the Wasteland** (see below for more about these kinds of aspects). A room might be **On Fire** after you knock over an oil lamp. After an encounter with a monster, you might be **Terrified**. Aspects let you change the story in ways that go along with your character’s tendencies, skills, or problems.

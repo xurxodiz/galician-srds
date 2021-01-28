@@ -1,22 +1,27 @@
-# Introduction
+---
+Title: "Introdución"
+Placing: 1
+---
 
-This is _Fate Condensed_, a version of _Fate Core System_ in as compact a form as we can manage. It is a complete roleplaying game; while other books might enhance your use of it, you don’t need any other book to play.
+# Introdución
 
-On that note, let’s get into what you _do_ need!
+Isto é _Fate Condensado_, a versión de _Fate Básico_ máis compacta que fomos quen de facer. É un xogo de rol completo; mesmo se outros libros poden mellorar o proveito que lle tires, non precisas de ningún outro libro para xogar.
 
-## What Do I Need to Play?
+Falando diso: vamos ver o que _si_ precisas!
 
-To play _Fate Condensed_ you’ll need two to six friends with one acting as Game Master (GM), some dice, some tokens, writing implements, paper, and something to write short notes on (_e.g.,_ small “sticky notes”).
+## O que preciso para xogar?
 
-_Fate Condensed_ uses **Fate Dice™** when characters take action. Fate dice are six-sided dice with two <dice>[0]</dice> sides, two <dice>[+]</dice> sides, and two <dice>[-]</dice> sides. One set of four dice will work fine, but one set per player is ideal. Other alternatives exist, such as using standard six-sided dice (1-2 = <dice>[-]</dice>, 3-4 = <dice>[0]</dice>, 5-6 = <dice>[+]</dice>), or the **Deck of Fate**, which uses cards instead of dice. We use the word “roll” throughout the text for simplicity.
+Para xogares a _Fate Condensado_, precisarás entre dúas e seis amigas —exercendo unha delas como Dirección de Xogo (DX)—,  algúns dados, algunhas doas, algo para escribir, papeis e algo no que facerdes pequenas notas (por exemplo, pósits).
 
-### For Veterans: Changes From Fate Core
+_Fate Condensado_ usa **dados Fate** cando as personaxes actúan. Os dados Fate son dados de seis caras nos que dúas caras teñen un <fate>0</fate>, dúas teñen un <fate>+</fate> e as outras dúas teñen un <fate>-</fate>. Cun set de catro dados xa abonda, pero terdes un set por xogadora é o ideal. Tamén hais outras alternativas, como usardes dados de seis caras dos de toda a vida (1-2 = <fate>-</fate>, 3-4 = <fate>0</fate>, 5-6 = <fate>+</fate>) ou a **Baralla de Fate**, que emprega cartas en troques de dados. En calquera caso, neste texto usaremos sempre *rolar* por simplificar.
 
-Condensing the gist of a system from nearly 300 pages down to about 50 pages of text does lead to a few changes. As of this writing it has also been eight years since _Fate Core System_ was created, so a little iteration of the design is to be expected. In particular, we highlight the following:
+### Mudanzas respecto a Fate Básico
 
-*   We’ve shifted over to one-point stress boxes to help reduce confusion (**page XX**).
-*   “Balsera Style” initiative (also known as “elective action order” or “popcorn initiative”) is the default rather than using skills to determine turn order (**page XX**).
-*   Advancement functions a little differently; we’ve eliminated significant milestones and finessed major milestones to compensate (**page XX**).
-*   We’ve removed the notion of active opposition as separate from the defend action (**page XX**). This has a few minor ripple effects, particularly overcome’s tie result (**page XX**).
-*   Create an Advantage has been tweaked to offer better clarity and agency around the discovery of existing unknown aspects (**page XX**).
-*   Full defense is presented as optional and has been altered a bit to accommodate the expanded scope of the defend action (**page XX**). Other standard rules options are presented as well, starting on **page XX**.
+Cando se condensa a esencia dun sistema de case 300 páxinas en apenas unhas 50 é inevitable facer algúns axustes. No momento de escribirmos isto xa pasaron oito anos des que se creara _Fate Básico_, así que é esperable tamén que o deseño evolucione un anaco. En concreto, queremos resaltar o seguinte:
+
+* Decidimos pasar a usar [caixas de estrés dun só punto](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano) para evitar confusións.
+* [A iniciativa «Balsera»](/fate-condensado/desafios-conflitos-e-competicions#orde-dos-turnos) (tamén coñecida como «orde electiva» ou «iniciativa pipoca») é agora a predeterminada, en vez de usar habilidades para fixar os turnos.
+* [O avance](/fate-condensado/avance) funciona un bocado diferente: eliminamos os fitos significativos e afinamos os fitos maiores para compensar.
+* Retiramos o concepto de oposición activa como algo separado da [acción de Defender](/fate-condensado/accions-e-roladas#defender). Isto ten algún efecto colateral, particularmente no [resultado de empate para Superar](/fate-condensado/accions-e-roladas#superar).
+* Modificamos [Crear unha Vantaxe](/fate-condensado/accions-e-roladas#crear-unha-vantaxe) para facela máis clara e dar máis axencia no tocante á descuberta de aspectos existentes pero descoñecidos.
+* A [defensa total](/fate-condensado/regras-opcionais#defensa-total) preséntase agora como opcional, e alterámola un chisco para acomodar o alcance expandido da acción de Defender. Tamén mencionamos [outras regras opcionais](/fate-condensado/regras-opcionais) de uso frecuente.

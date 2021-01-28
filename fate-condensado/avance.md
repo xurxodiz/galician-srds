@@ -1,3 +1,8 @@
+---
+Title: "Avance"
+Placing: 6
+---
+
 # Advancement
 
 As your characters muck about in the storyline, they’ll grow and change. At the end of each session you’ll earn a **minor milestone**, which lets you move things around on your character sheet. As you conclude each arc of the story, you’ll earn a **major milestone**, which lets you add things to your character sheet. (Learn more about sessions and arcs on **page XX**.)
