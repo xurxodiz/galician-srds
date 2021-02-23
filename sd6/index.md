@@ -5,7 +5,7 @@ Placing: 0
 
 # SD6
 
-Ti xa xogaches ao **rol**. Cando imaxinas que estás nos teus debuxos favoritos e interpretas a outras personaxes, iso é rol. Esta é apenas unha forma diferente que empregamos «a xente vella» para non sentirmos ridículo ^\_^
+Ti xa xogaches ao **rol**. Cando imaxinas que estás nos teus debuxos favoritos e interpretas a outras personaxes, iso é rol. Esta é apenas unha forma diferente que empregamos «a xente vella» para non sentirmos ridículos ^\_^
 
 Neste xogo de rol, unha persoa (a Dirección) propón unha situación coa axuda das regras. As demais, coa súa axuda, contan o que fan as personaxes protagonistas e se vai contando unha historia en grupo.
 
