@@ -196,9 +196,9 @@ Se se trata dun aspecto existente, público ou non, as posibles resolucións son
 * **Se tes éxito con estilo**, obtés _dúas_ invocacións de balde no aspecto, revelándoo se non era público.
 
 > Eva enfróntase cara a cara cun shoggoth, unha imparable mole de músculo. Consciente de que é poderosa de máis para atacala directamente, decide que a súa mellor opción é distraela, e anuncia: «Quero facer un cóctel Molotov para guindarllo enriba e prenderlle lume!».
-
+>
 > A DX conclúe que atinar no shoggoth non ten truco ningún, así que a rolada é realmente de Aparellos: canto tardará en dar atopado algo inflamable co que argallar o cóctel? Fixa unha dificultade boa (+3). Eva ten un nivel regular (+1) en Aparellos, pero rola <fate>0+++</fate>, dándolle un esforzo total formidable (+4).
-
+>
 > Eva monta o cóctel Molotov e lánzallo á besta. O shoggoth está agora <aspect>Ardendo</aspect>, e Eva ten unha invocación de balde nese aspecto. A besta fica distraída como ela quería, e se tenta perseguila, Eva poderá servirse da invocación para axudarse a fuxir.
 
 
@@ -206,21 +206,21 @@ Se se trata dun aspecto existente, público ou non, as posibles resolucións son
 
 *Ataca* para faceres dano ao inimigo.
 
-A acción de atacar é coa que tentas deixar fóra de xogo a un opoñente, tanto se o que queres é matar un monstro impoñente como deixar grogui un coitado garda que nin sabía o que estaba a custodiar. Un ataque pode ser un varrido cunha metralleta, un potente gancho de esquerda, ou un conxuro destructor.
+A acción de atacar é coa que tentas deixar fóra de xogo a un contrincante, tanto se o que queres é matar un monstro impoñente como incapacitar un coitado garda que nin sabía o que estaba a custodiar. Un ataque pode ser un varrido cunha metralleta, un potente gancho de esquerda, ou un conxuro destructor.
 
-Ten presente se poderías sequera danar ao teu albo. Non todos os ataques son iguais. Non podes esperar facer dano a un kaiju soltándolle un puñetazo. Acordade primeiro se é posible que o ataque teña éxito antes de rolardes os dados. Pode que haxa seres poderosos para os que precises explotar unha debilidade ou superar algún tipo de defensas antes de poder danalos.
+Ten presente se poderías sequera danar ao teu albo. Non todos os ataques son iguais. Non esperes facerlle dano a un kaiju soltándolle un puñazo. Acordade primeiro se é posible que o ataque teña éxito antes de rolardes os dados. Pode que haxa seres poderosos para os que precises explotar unha debilidade ou superar algún tipo de defensas antes de poder danalos.
 
 As posibles resolucións ao atacares son:
 
-* **Se fracasas**, non ten efecto: o ataque foi parado, desviado, ou absorbido por algunha protección.
+* **Se fracasas**, non ten efecto: o ataque foi parado, desviado ou absorbido por algunha protección.
 
-* **Se empatas**, apenas ten efecto, ou como moito defensor dá un chouto. En calquera caso, obtés un [impulso](/fate-condensado/aspectos-e-puntos-de-fado#impulsos).
+* **Se empatas**, apenas ten efecto, ou como moito o defensor dá un chouto. En calquera caso, obtés un [impulso](/fate-condensado/aspectos-e-puntos-de-fado#impulsos).
 
-* **Se tes éxitp**, causas un impacto igual á diferencia entre o total do teu ataque e o esforzo da defensa. O defensor debe absorber este impacto con estrés ou consecuencias, ou quedará [fóra de xogo](/fate-condensado/desafios-conflitos-e-competicions#quedar-fora-de-xogo).
+* **Se tes éxito**, causas un impacto igual á diferencia entre o total do teu ataque e o esforzo da defensa. O defensor debe absorber este impacto con estrés ou consecuencias, ou quedará [fóra de xogo](/fate-condensado/desafios-conflitos-e-competicions#quedar-fora-de-xogo).
 
 * **Se tes éxito con estilo**, causas un impacto como no éxito, pero podes reducir os chanzos do impacto en un para obter un impulso.
 
-> Ruth topouse con cadáver alzado por poderes arcanos para completar algún propósito escuro. Decide darlle un puñetazo. Ten unha Pelexa formidable (+4), pero rola <fate>--00</fate>, resultando nun esforzo razoable (+2).
+> Ruth topouse cun cadáver alzado por poderes arcanos para completar algún propósito escuro. Decide zoscarlle. Ten unha Pelexa formidable (+4), pero rola <fate>--00</fate>, resultando nun esforzo razoable (+2).
 
 ### Defender
 
@@ -228,26 +228,26 @@ As posibles resolucións ao atacares son:
 
 Tes un monstro enriba tentando devorarte a cara? Hai un inimigo tentando botarte do camiño para fuxir da túa cólera? E que pasa cando ese seitario tenta apuñalarte nos riles? **Defende**, defende e defende!
 
-A defensa é a única acción reactiva en _Fate Condensado_. Úsase para pórlle freo a algo que acontece fóra do teu turno, polo que normalmente se tratará dunha rolada enfrontada máis que dunha dificultade fixa. O contrincante rola e xusto despois rolas ti para defender, sempre que sexas o albo ou poidas xustificar a túa oposición (o que adoita facer que sexas ti o albo). A xustificación pode vir de aspectos ou talentos.
+A defensa é a única acción reactiva en _Fate Condensado_. Úsase para pórlle freo a algo que acontece fóra do teu turno, polo que normalmente se tratará dunha rolada enfrontada máis que dunha dificultade fixa. O contrincante rola e xusto despois rolas ti para defender, sempre que sexas o albo ou poidas xustificar a túa oposición (o que adoita facer que sexas ti o albo). A xustificación tamén pode vir de aspectos ou talentos.
 
 As posibles resolucións ao defenderes son:
 
-* **Se fallas** contra un ataque, recibes un impacto que debes absorbar con [estrés](/fate-condensado/desafios-conflitos-e-competicions#estres) ou [consecuencias](/fate-condensado/desafios-conflitos-e-competicions#consecuencias). En calquera caso, o inimigo ten éxito tal e como se describa para a súa acción.
+* **Se fracasas** contra un ataque, recibes un impacto que debes absorber con [estrés](/fate-condensado/desafios-conflitos-e-competicions#estres) ou [consecuencias](/fate-condensado/desafios-conflitos-e-competicions#consecuencias). En calquera caso, o inimigo ten éxito tal e como se describa para a súa acción.
 
-* **Se empatas**, continúa segundo a resolución de empate para a acción oposta.
+* **Se empatas**, segue a resolución de empate para a acción oposta.
 
 * **Se tes éxito**, non recibes impacto ou negas a acción inimiga.
 
 * **Se tes éxito con estilo**, non recibes impacto, negas a acción inimiga, e mesmo obtés un impulso ao impoñerte por un momento.
 
 > Seguindo co exemplo anterior, o cadáver ten dereito a defenderse contra Ruth. A DX rola <fate>-00+</fate>, o que non altera o Atletismo mediocre (+0) da criatura.
-
+>
 > Xa que o esforzo de Ruth foi máis alto, o seu ataque ten éxito por dous chanzos, e o cadáver está máis perto de ser vencido definitivamente. Se o cadáver rolase mellor, a súa defensa tería éxito, e a aberración zombi evitaría recibir un impacto.
 
 
 #### Que habilidades se poden usar para atacar e defender?
 
-A lista predeterminada de habilidades respecta estas directrices:
+A lista predeterminada de habilidades segue estas pautas:
 
 * Pelexa e Tiro poden usarse para facer ataques físicos.
 * Atletismo pode usarse para defenderse de calquera ataque físico.
