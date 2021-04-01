@@ -76,13 +76,13 @@ Algunhas resolucións son obviamente mellores para ti que as outras, pero todas 
 
 Se o teu esforzo é menor do que a dificultade ou oposición albo, fracasas.
 
-Ese fracaso pode interpretarse de varias formas: fracaso simple, éxito a custo alto, ou recibires un impacto.
+Ese fracaso pode interpretarse de varias formas: fallo, éxito a custo alto, ou recibires un impacto.
 
-#### Fracaso simple
+#### Fallo
 
-A primeira é a máis sinxela de entender: **fracaso simple**. Non logras a túa meta, non fas progresos, e quedas coas ganas. Asegurádevos de que a historia siga progresando: non dar aberto a porta, sen máis, é aborrecido e estancado.
+A primeira é a máis sinxela de entender: un **fallo**. Non logras a túa meta, non fas progresos, e quedas coas ganas. Asegurádevos de que a historia siga progresando: non dar aberto a porta, sen máis, é aborrecido e estancado.
 
-> Eva baixa o picaporte satisfeita, pero a caixa permanece ben pechada mentres as alarmas comezan a ruxir. O fracaso mudou a situación e moveu a historia cara diante: agora os gardas están de camiño. Eva enfróntase a un novo dilema: tentar abrir a caixa doutra forma, agora que a discreción xa se foi ao tacho, ou evitar empeoralo e saír correndo?
+> Eva baixa o picaporte satisfeita, pero a caixa permanece ben pechada mentres as alarmas comezan a ruxir. O fallo mudou a situación e moveu a historia cara diante: agora os gardas están de camiño. Eva enfróntase a un novo dilema: tentar abrir a caixa doutra forma, sabendo que a discreción xa quedou descartada, ou evitar empeoralo e saír correndo?
 
 #### Éxito a custo alto
 
@@ -108,7 +108,7 @@ O mesmo que nun fracaso, os empates deberán progresar a historia, sen obstaculi
 
 A primeira é o **éxito a custo baixo**: exemplos de custos baixos son un par de puntos de estrés, novas dificultades ou complicacións da historia que non sexan atrancos en si mesmos, ou dar un impulso ao inimigo.
 
-> Todas as primeiras tentativas de Eva fallan. Para cando dá aberto a porta, está a saír o sol, e escapar baixo o manto da noite xa non será posible. Obtivo o que quería, pero agora está en peor situación.
+> Todas as tentativas iniciais de Eva fallan unha tras outra. Para cando dá aberto a porta, está a saír o sol, e escapar baixo o manto da noite xa non será posible. Obtivo o que quería, pero agora está en peor situación.
 
 #### Éxito parcial
 
@@ -134,13 +134,13 @@ Se o teu esforzo é tres ou máis chanzos maior que o albo, tes éxito con estil
 
 Obtés o que queres, e por riba un pouco máis.
 
-> Eva tivo unha sorte tremenda: a caixa ábrese case ao instante. Non só colle o ritual, senón que ten tempo tamén de fisgar nos outros papeis ao fondo da caixa. Entre arquivadores e documentos financieiros, atopa un mapa da vella mansión Acuña.
+> Eva tivo unha sorte tremenda: a caixa ábrese case ao instante. Non só colle o ritual, senón que ten tempo tamén de fisgar nos outros papeis ao fondo da caixa. Entre arquivadores e documentos financieiros, atopa un plano da vella mansión Acuña.
 
 ## Accións
 
 Podes rolar catro accións, cada unha co seu propósito e efecto na historia:
 
-* **Superar** para vencer os obstáculos mediante as túas habilidades.
+* **Superar** para venceres os obstáculos mediante as túas habilidades.
 * **Crear unha vantaxe** para alterares a situación no teu beneficio.
 * **Atacar** para faceres dano ao teu inimigo.
 * **Defender** para sobrevivires a un ataque, impedires a un inimigo crear unha vantaxe, ou presentares oposición a quen quere superar un obstáculo.
@@ -155,51 +155,52 @@ Unha personaxe que sea boa en Atletismo poderá trepar muros e correr a través 
 
 As resolucións ao superares son:
 
-* **Se fallares**, acorda coa DX (e a xogadora defensora, se a houber) se se trata dun fracaso ou dun [éxito a custo alto](#exito-a-custo-alto).
+* **Se fallas**, acorda coa DX (e a xogadora defensora, se a houber) se se trata dun fracaso ou dun [éxito a custo alto](#exito-a-custo-alto).
 
-* **Se empatares**, tes [éxito a custo baixo](#exito-a-custo-baixo): estás nun aprieto, o inimigo obtén un [impulso](/fate-condensado/aspectos-e-puntos-de-fado#impulsos), ou recibes un impacto. Alternativamente, fracasas pero obtés un iompulso.
+* **Se empatas**, tes [éxito a custo baixo](#exito-a-custo-baixo): estás nun aprieto, o inimigo obtén un [impulso](/fate-condensado/aspectos-e-puntos-de-fado#impulsos), ou recibes un impacto. Alternativamente, fracasas pero obtés un impulso.
 
-* **Se tiveres éxito**, logras o teu obxectivo e a historia avanza sen atrancos.
+* **Se tes éxito**, logras o teu obxectivo e a historia avanza sen atrancos.
 
-* **Se tiveres éxito con estilo**, é un éxito e por riba obtés un impulso.
+* **Se tes éxito con estilo**, é un éxito e por riba obtés un impulso.
 
-> Carolina abriuse paso ata unha instalación científica na Antártida. Os edificios están destrozados e os traballadores, desaparecidos. Quere buscar entre os cascallos algunha pista. A DX pídelle que role Investigación contra unha dificultade razoable (+2). Carolina saca <fate>00++</fate> nos dados, que sumado á súa Investigación regular (+1), resulta nun esforzo bo (+3). Un éxito! A DX describe a pista que atopa: pegadas na neve feitas por algún tipo de  criaturas inhumanas con moitas patas delgadiñas.
+> Carolina abriuse paso ata unha instalación científica na Antártida. Os edificios están destrozados e os traballadores, desaparecidos. Quere buscar entre os cascallos algunha pista. A DX pídelle que role Investigación contra unha dificultade razoable (+2). Carolina saca <fate>00++</fate> nos dados, o que sumado á súa Investigación regular (+1), resulta nun esforzo bo (+3): un éxito! A DX describe a pista que atopa: pegadas na neve feitas por algún tipo de  criaturas inhumanas con moitas patas delgadiñas.
 
 As accións de Superar úsanse a miúdo para determinar o acceso ou percepción dunha personaxe a un feito ou pista. Neses casos, ten moi presentes as opcións para éxito a custo. Cando non reparar dun detalle pode paralizar a partida, non des opción a ese fracaso e céntrate no custo.
 
 ### Crear unha Vantaxe
 
-*Crea* un aspecto de situación ou tira proveito dun aspecto existente.
+*Creas* un aspecto de situación ou benefíciaste dun aspecto existente.
 
-Podes usar a acción de **crear unha vantaxe** para alterar o curso da historia. Ao usares as túas habilidades para introducir aspectos novos ou engadir invocacións a aspectos existentes, es quen de inclinar a balanza no teu favor e no das túas compañeiras. Talvez mudes as circunstancias (atranando unha porta ou deseñando un plan), descubras nova información (revelando a debilidade dun monstro coas túas pesquisas), ou tires proveito de algo que xa sabías (a preferencia dun xerente polo whisky escocés).
+Podes usar a acción de **crear unha vantaxe** para alterar o curso da historia. Ao usares as túas habilidades para introducir aspectos novos ou engadir invocacións a aspectos existentes, es quen de inclinar a balanza no teu favor e no das túas compañeiras. Talvez mudes as circunstancias (atrancando unha porta ou deseñando un plan), descubras nova información (revelando a debilidade dun monstro coas túas pesquisas), ou tires proveito de algo que xa sabías (a preferencia dun xerente polo whisky escocés).
 
-Cando roles para crear unha vantaxe, especifica se estás a crear un novo aspecto ou estás a aproveitarte dun que xa existe. No primeiro caso, estás a anexar o aspecto a unha aliada, un inimigo, ou á contorna? Se o estás a anexar a un inimigo, pode usar a acción de Defender para opoñerse. Nos outros casos normalmente te enfrontarías a unha dificultade, pero a DX pode decidir que, en vez de iso, algo ou alguén se opoña aos teus esforzos cunha rolada de defender.
+Cando roles para crear unha vantaxe, di se estás a crear un novo aspecto ou aproveitándote dun que xa existe. No primeiro caso, aclara tamén se estás a anexar o aspecto a unha aliada, un inimigo, ou á contorna. Se o estás a anexar a un inimigo, este pode usar a acción de Defender para opoñerse, pero nos outros casos normalmente te enfrontarías a unha dificultade fixa. Porén, a DX pode decidir que algo ou alguén se opoña aos teus esforzos cunha rolada de Defender.
 
-Your outcomes when creating a new aspect are:
+As resolucións ao creares un novo aspecto son:
 
-*   **If you fail,** you either don’t create the aspect (failure) or you create it but the enemy gets the free invoke (success at a cost). If you succeed at a cost, the final aspect may need to be rewritten to benefit the enemy. This may still be worth it because aspects are true (**page XX**).
+* **Se fallas**, ou non creas o aspecto (un fallo) ou créalo pero é o inimigo quen recibe a invocación de balde (éxito a custo). Se escolles éxito a custo, pode que teñades que rescribir o aspecto final para beneficiardes ao inimigo. Aínda así, pode que vos pague a pena porque [os aspectos sempre son certos](/fate-condensado/aspectos-e-puntos-de-fado#os-aspectos-sempre-son-certos).
 
-*   **If you tie,** you don’t create an aspect, but you do get a boost (**page XX**).
+* **Se empatas**, non creas un aspecto, pero obtés [un impulso](/fate-condensado/aspectos-e-puntos-de-fado#impulsos).
 
-*   **If you succeed,** you create a situation aspect with one free invoke on it.
+* **Se tes éxito**, creas un aspecto de situación cunha invocación de balde nel.
 
-*   **If you succeed with style,** you create a situation aspect with _two_ free invokes on it.
+* **Se tes éxito con estilo**, creas un aspecto de situación con _dúas_ invocacións de balde nel.
 
-With an existing known or unknown aspect the outcomes are:
+Se se trata dun aspecto existente, público ou non, as resolución son:
 
-*   **If you fail,** and the aspect was known, the enemy gets a free invoke. If it was unknown, they may choose to reveal it to get a free invoke.
+* **Se fallas**, e o aspecto era público, o inimigo obtén unha invocación de balde. Se non era público, pode decidir revelalo para obter a invocación.
 
-*   **If you tie,** you gain a boost if the aspect was unknown; it stays unknown. If the aspect is known, you get a free invoke on it instead.
+* **Se empatas**, e o aspecto era público, obtés unha invocación de balde. Se non era público, continúa oculto pero obtés un impulso. 
 
-*   **If you succeed,** gain a free invoke on the aspect, revealing it if unknown.
+* **Se tes éxito**, obtés unha invocación de balde no aspecto, revelándoo se non era público.
 
-*   **If you succeed with style,** gain two free invokes, revealing it if unknown.
+* **Se tes éxito con estilo**, obtés _dúas_ invocacións de balde no aspecto, revelándoo se non era público.
 
-Ethan is face-to-something with a shoggoth, a massive and tireless fleshy beast. He knows it’s too powerful to attack directly, so he decides his best bet is to distract it: “I’d like to make a Molotov cocktail and set this thing on fire!” he announces.
+> Eva enfróntase cara a cara cun shoggoth, unha imparable mole de músculo. Consciente de que é poderosa de máis para atacala directamente, decide que a súa mellor opción é distraela, e anuncia: «Quero facer un cóctel Molotov para guindarllo enriba e prenderlle lume!».
 
-The GM decides that actually hitting the shoggoth is trivial, so this is a Crafts roll—how quickly can he find and weaponize something flammable? The difficulty is set at Good (+3). Ethan has Average (+1) Crafts but rolls <dice>[0][+][+][+]</dice>, giving a Great (+4) effort.
+> A DX conclúe que impactar no shoggoth é trivial, así que a rolada é realmente de Aparellos: canto tardará en dar atopado algo inflamable co que argallar o cóctel? A dificultade fíxaa en boa (+3). Eva ten un nivel razoable (+1) en Aparellos, pero rola <fate>0+++</fate>, dándolle un esforzo total formidable (+4).
 
-Ethan cobbles together the Molotov and tosses it at the beast. The shoggoth is now **On Fire**, and Ethan has one free invoke on that aspect. The shoggoth is definitely distracted, and if it does try to chase him, Ethan can use that invoke to help himself get away.
+> Eva monta o cóctel Molotov e guíndallo á besta. O shoggoth está agora <aspect>Ardendo</aspect>, e Eva ten unha invocación de balde nese aspecto. A besta fica distraída como ela quería, e se tentase perseguila, Eva poderá servirse da invocación para axudarse a fuxir.
+
 
 ### Attack
 
