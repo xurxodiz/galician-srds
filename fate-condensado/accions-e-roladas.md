@@ -153,7 +153,7 @@ Todas as personaxes se enfrontarán a desafíos inauditos no decurso da historia
 
 Unha personaxe que sea boa en Atletismo poderá trepar muros e correr a través de rúas ateigadas. Unha detective competente en Investigación poderá conectar pistas que outros pasarían por alto. Alguén cunha alta Sociabilidade terá máis doado evitar unha rifa nunha taberna hostil. 
 
-As resolucións ao superares son:
+As posibles resolucións ao superares son:
 
 * **Se fallas**, acorda coa DX (e a xogadora defensora, se a houber) se se trata dun fracaso ou dun [éxito a custo alto](#exito-a-custo-alto).
 
@@ -175,9 +175,9 @@ Podes usar a acción de **crear unha vantaxe** para alterar o curso da historia.
 
 Cando roles para crear unha vantaxe, di se estás a crear un novo aspecto ou aproveitándote dun que xa existe. No primeiro caso, aclara tamén se estás a anexar o aspecto a unha aliada, un inimigo, ou á contorna. Se o estás a anexar a un inimigo, este pode usar a acción de Defender para opoñerse, pero nos outros casos normalmente te enfrontarías a unha dificultade fixa. Porén, a DX pode decidir que algo ou alguén se opoña aos teus esforzos cunha rolada de Defender.
 
-As resolucións ao creares un novo aspecto son:
+As posibles resolucións ao creares un novo aspecto son:
 
-* **Se fallas**, ou non creas o aspecto (un fallo) ou créalo pero é o inimigo quen recibe a invocación de balde (éxito a custo). Se escolles éxito a custo, pode que teñades que rescribir o aspecto final para beneficiardes ao inimigo. Aínda así, pode que vos pague a pena porque [os aspectos sempre son certos](/fate-condensado/aspectos-e-puntos-de-fado#os-aspectos-sempre-son-certos).
+* **Se fallas**, ou non creas o aspecto (un fallo) ou créalo pero é o inimigo quen recibe a invocación de balde (éxito a custo). Se escolles éxito a custo, talvez teñades que adaptar o aspecto final para que sexa favorable ao inimigo. Aínda así, pode que vos pague a pena porque [os aspectos sempre son certos](/fate-condensado/aspectos-e-puntos-de-fado#os-aspectos-sempre-son-certos).
 
 * **Se empatas**, non creas un aspecto, pero obtés [un impulso](/fate-condensado/aspectos-e-puntos-de-fado#impulsos).
 
@@ -185,7 +185,7 @@ As resolucións ao creares un novo aspecto son:
 
 * **Se tes éxito con estilo**, creas un aspecto de situación con _dúas_ invocacións de balde nel.
 
-Se se trata dun aspecto existente, público ou non, as resolución son:
+Se se trata dun aspecto existente, público ou non, as posibles resolucións son:
 
 * **Se fallas**, e o aspecto era público, o inimigo obtén unha invocación de balde. Se non era público, pode decidir revelalo para obter a invocación.
 
@@ -197,61 +197,62 @@ Se se trata dun aspecto existente, público ou non, as resolución son:
 
 > Eva enfróntase cara a cara cun shoggoth, unha imparable mole de músculo. Consciente de que é poderosa de máis para atacala directamente, decide que a súa mellor opción é distraela, e anuncia: «Quero facer un cóctel Molotov para guindarllo enriba e prenderlle lume!».
 
-> A DX conclúe que impactar no shoggoth é trivial, así que a rolada é realmente de Aparellos: canto tardará en dar atopado algo inflamable co que argallar o cóctel? A dificultade fíxaa en boa (+3). Eva ten un nivel razoable (+1) en Aparellos, pero rola <fate>0+++</fate>, dándolle un esforzo total formidable (+4).
+> A DX conclúe que atinar no shoggoth non ten truco ningún, así que a rolada é realmente de Aparellos: canto tardará en dar atopado algo inflamable co que argallar o cóctel? Fixa unha dificultade boa (+3). Eva ten un nivel regular (+1) en Aparellos, pero rola <fate>0+++</fate>, dándolle un esforzo total formidable (+4).
 
-> Eva monta o cóctel Molotov e guíndallo á besta. O shoggoth está agora <aspect>Ardendo</aspect>, e Eva ten unha invocación de balde nese aspecto. A besta fica distraída como ela quería, e se tentase perseguila, Eva poderá servirse da invocación para axudarse a fuxir.
+> Eva monta o cóctel Molotov e lánzallo á besta. O shoggoth está agora <aspect>Ardendo</aspect>, e Eva ten unha invocación de balde nese aspecto. A besta fica distraída como ela quería, e se tenta perseguila, Eva poderá servirse da invocación para axudarse a fuxir.
 
 
-### Attack
+### Atacar
 
-Attack to harm the enemy.
+*Ataca* para faceres dano ao inimigo.
 
-The <a id="_idTextAnchor012"></a>**attack** action is how you try to take out an opponent—whether you’re looking to kill a loathsome monster, or knock out an innocent guard who doesn’t know the truth about what he’s guarding. An attack can be unloading with a machine gun, throwing a solid punch, or casting a baleful spell.
+A acción de atacar é coa que tentas deixar fóra de xogo a un opoñente, tanto se o que queres é matar un monstro impoñente como deixar grogui un coitado garda que nin sabía o que estaba a custodiar. Un ataque pode ser un varrido cunha metralleta, un potente gancho de esquerda, ou un conxuro destructor.
 
-Keep in mind whether or not harming your target is even possible. Not every attack is equal. You can’t just punch a kaiju and hope to hurt it. Determine whether the attack even has a chance of being successful before you start rolling the dice. A number of powerful beings may have specific weaknesses that need to be exploited, or some means of defense you must get through before you can even begin to hurt them.
+Ten presente se poderías sequera danar ao teu albo. Non todos os ataques son iguais. Non podes esperar facer dano a un kaiju soltándolle un puñetazo. Acordade primeiro se é posible que o ataque teña éxito antes de rolardes os dados. Pode que haxa seres poderosos para os que precises explotar unha debilidade ou superar algún tipo de defensas antes de poder danalos.
 
-Your outcomes when attacking are:
+As posibles resolucións ao atacares son:
 
-*   **If you fail,** you fail to connect—the attack is parried, dodged, or maybe just absorbed by armor.
+* **Se fracasas**, non ten efecto: o ataque foi parado, desviado, ou absorbido por algunha protección.
 
-*   **If you tie,** maybe you barely connect, maybe you cause the defender to flinch. Either way, you get a boost (**page XX**).
+* **Se empatas**, apenas ten efecto, ou como moito defensor dá un chouto. En calquera caso, obtés un [impulso](/fate-condensado/aspectos-e-puntos-de-fado#impulsos).
 
-*   **If you succeed,** you deal a hit equal to the difference between your attack’s total and the defense’s effort. The defender must absorb this hit with stress or consequences, or else be taken out (**page XX**).
+* **Se tes éxitp**, causas un impacto igual á diferencia entre o total do teu ataque e o esforzo da defensa. O defensor debe absorber este impacto con estrés ou consecuencias, ou quedará [fóra de xogo](/fate-condensado/desafios-conflitos-e-competicions#quedar-fora-de-xogo).
 
-*   **If you succeed with style,** you deal a hit just like a success, but you may reduce the shifts of the hit by one to get a boost.
+* **Se tes éxito con estilo**, causas un impacto como no éxito, pero podes reducir os chanzos do impacto en un para obter un impulso.
 
-Ruth has stumbled across a corpse raised by arcane powers to fulfill some dark purpose. She decides to punch it. She has Great (+4) Fight but rolls <dice>[-][-][0][0]</dice>, giving a Fair (+2) effort.
+> Ruth topouse con cadáver alzado por poderes arcanos para completar algún propósito escuro. Decide darlle un puñetazo. Ten unha Pelexa formidable (+4), pero rola <fate>--00</fate>, resultando nun esforzo razoable (+2).
 
-### Defend
+### Defender
 
-Defend to survive an attack or interfere with a foe’s action.
+*Defende* para sobrevivires a un ataque ou interferires cunha acción inimiga.
 
-Is a monster trying to eat your face? Is a foe pushing you out of the way as they flee your wrath? What about when that cultist tries to stab you in both kidneys? **Defend**, defend, defend.
+Tes un monstro enriba tentando devorarte a cara? Hai un inimigo tentando botarte do camiño para fuxir da túa cólera? E que pasa cando ese seitario tenta apuñalarte nos riles? **Defende**, defende e defende!
 
-Defend is the only reactive action in _Fate Condensed_. You use it to stop something from happening outside your turn, so you’re often facing an opposing roll rather than a set difficulty. Your enemy rolls, and you immediately roll to defend, so long as you’re the target or can justify your opposition (which often makes you the target). Aspects or stunts may provide justification.
+A defensa é a única acción reactiva en _Fate Condensado_. Úsase para pórlle freo a algo que acontece fóra do teu turno, polo que normalmente se tratará dunha rolada enfrontada máis que dunha dificultade fixa. O contrincante rola e xusto despois rolas ti para defender, sempre que sexas o albo ou poidas xustificar a túa oposición (o que adoita facer que sexas ti o albo). A xustificación pode vir de aspectos ou talentos.
 
-Your outcomes when defending are:
+As posibles resolucións ao defenderes son:
 
-*   **If you fail** against an attack, you take a hit, which you must absorb with stress (**page XX**) or consequences (**page XX**). Regardless, the enemy succeeds as described for their action.
+* **Se fallas** contra un ataque, recibes un impacto que debes absorbar con [estrés](/fate-condensado/desafios-conflitos-e-competicions#estres) ou [consecuencias](/fate-condensado/desafios-conflitos-e-competicions#consecuencias). En calquera caso, o inimigo ten éxito tal e como se describa para a súa acción.
 
-*   **If you tie,** proceed according to the tie result for the opposed action.
+* **Se empatas**, continúa segundo a resolución de empate para a acción oposta.
 
-*   **If you succeed,** you don’t take a hit or you deny the enemy’s action.
+* **Se tes éxito**, non recibes impacto ou negas a acción inimiga.
 
-*   **If you succeed with style,** you don’t take a hit, you deny the enemy’s action, and you even get a boost as you gain the upper hand for a moment.
+* **Se tes éxito con estilo**, non recibes impacto, negas a acción inimiga, e mesmo obtés un impulso ao impoñerte por un momento.
 
-Continuing from the previous example, the corpse gets to defend itself against Ruth. The GM rolls <dice>[-][0][0][+]</dice>, which doesn’t change the creature’s Mediocre (+0) Athletics.
+> Seguindo co exemplo anterior, o cadáver ten dereito a defenderse contra Ruth. A DX rola <fate>-00+</fate>, o que non altera o Atletismo mediocre (+0) da criatura.
 
-Because Ruth’s effort was higher, her attack succeeds by two shifts, and the corpse is a little closer to being down for good. Had the corpse rolled better, then its defense would have succeeded, and the undead monstrosity would have avoided taking a hit.
+> Xa que o esforzo de Ruth foi máis alto, o seu ataque ten éxito por dous chanzos, e o cadáver está máis perto de ser vencido definitivamente. Se o cadáver rolase mellor, a súa defensa tería éxito, e a aberración zombi evitaría recibir un impacto.
 
-#### Which skills can be used to attack and defend?
 
-The default list of skills follows these guidelines:
+#### Que habilidades se poden usar para atacar e defender?
 
-*   Fight and Shoot can be used to make physical attacks.
-*   Athletics can be used to defend against any physical attack.
-*   Fight can be used to defend against melee physical attacks.
-*   Provoke can be used to make a mental attack.
-*   Will can be used to defend against mental attacks.
+A lista predeterminada de habilidades respecta estas directrices:
 
-Other skills may gain permission to attack or defend under special circumstances, as determined by the GM or table consensus. Some stunts may grant broader, guaranteed permission when circumstances might otherwise not do so. When a skill can’t be used to attack or defend but might help with it, prepare for it by using that skill with the create an advantage action, and use the free invokes generated on your next attack or defend roll.
+* Pelexa e Tiro poden usarse para facer ataques físicos.
+* Atletismo pode usarse para defenderse de calquera ataque físico.
+* Pelexa pode usarse para defenderse de calquera ataque físico corpo a corpo.
+* Provocación pode usarse para facer ataques mentais.
+* Vontade pode usarse para defenderse de ataques mentais.
+
+A DX ou un consenso da mesa poden dar permiso en certas circunstancias para atacar ou defender con outras habilidades. Algúns talentos poden garantir tales permisos dun xeito máis amplo mesmo cando as circunstancias non o permitirían de forma normal. Cando unha habilidade non se poida usar para atacar ou defender directamente, pero poida ser de axuda, prepara o terreo usándoa coa acción de crear unha vantaxe, e emprega logo as invocacións de balde xeradas na túa seguinte rolada de ataque ou defensa.
