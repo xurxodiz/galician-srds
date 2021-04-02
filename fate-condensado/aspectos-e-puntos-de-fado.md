@@ -9,13 +9,13 @@ Un **aspecto** é unha frase ou palabra que describe algo especial sobre unha pe
 
 ## Os aspectos sempre son certos
 
-Podes [invocar os aspectos](#invocacions) para obter un bonificar a unha rolada e [forzalos](#forzados) para crear unha complicación. Pero mesmo fóra desas situacións, os aspectos seguen a afectar á narrativa. Se tes unha monstrosidade carnosa <aspect>Atrapada nunha prensa hidráulica</aspect>, iso é _certo_. Non pode facer moito mentres siga alí metida, e non sairá doadamente.
+Podes [invocar os aspectos](#invocacions) para obter un bonificador a unha rolada e [forzalos](#forzados) para crear unha complicación. Pero mesmo fóra desas situacións, os aspectos seguen a afectar á narrativa. Se tes unha monstrosidade carnosa <aspect>Atrapada nunha prensa hidráulica</aspect>, iso é _certo_. Non pode facer moito mentres siga alí metida, e non sairá doadamente.
 
-Básicamente, que «os aspectos sempre sonn certos» significa que **os aspectos conceden ou retiran permiso respecto do que pode acontecer na historia** (tamén poden [afectar á dificultade](/fate-condensado/dirixir-o-xogo#fixar-a-dificultade-e-oposicion)). Se a devandita monstrosidade está **Atrapada**, a DX (e todo o mundo) ten que respectar ese feito. A criatura perdeu permiso para moverse ata que ocorra algo que retire ese aspecto, ben sexa unha rolada de superar con éxito (o que requeriría pola súa parte un aspecto que a xustifique, como <aspect>Forza sobrehumana</aspect>) ou algún babeco que afrouxe a presa. Do mesmo xeito, se tes <aspect>Pernas melloradas cibernéticamente</aspect> parecería claro que che dan permiso para saltares por riba dos muros nun só chimpo sen ter sequera que rolar.
+Básicamente, «os aspectos sempre son certos» significa que **os aspectos conceden ou retiran permiso respecto do que pode acontecer na historia** (e tamén poden [afectar á dificultade](/fate-condensado/dirixir-o-xogo#fixar-a-dificultade-e-oposicion)). Se a devandita monstrosidade está <aspect>Atrapada</aspect>, a DX (e todo o mundo) ten que respectar ese feito. A criatura perdeu permiso para moverse ata que ocorra algo que retire ese aspecto, ben sexa unha rolada de superar con éxito (o que requeriría pola súa parte un aspecto que a xustifique, como <aspect>Forza sobrehumana</aspect>) ou algún babeco que afrouxe a presa. Do mesmo xeito, se tes <aspect>Pernas melloradas cibernéticamente</aspect> parecería claro que che dan permiso para saltares por riba dos muros nun só chimpo sen ter sequera que rolar.
 
-Isto non quere dicir que poidas crear calquera aspecto que queiras e esgrimir a súa veracidade como excusa para todo. Os aspectos conceden moito poder para modificar a historia, certo, pero canda ese poder vén tamén a responsabilidad de xogar dentro das limitacións da historia. Os aspectos teñen que ir en liña coa percepción da mesa do que é lícito. **Se un aspecto non recibe a aprobación xeral, ten que ser rescrito**.
+Isto non quere dicir que poidas crear calquera aspecto que queiras e esgrimir a súa veracidade como excusa para todo. Os aspectos conceden moito poder para modificar a historia, certo, pero canda ese poder vén tamén a responsabilidade de xogar dentro das limitacións da historia. Os aspectos teñen que ir en liña coa percepción da mesa do que é lícito. **Se un aspecto fai torcer o bico, ten que ser reescrito**.
 
-Claro, a ti _gustaríache_ usar a acción de crear unha vantaxe para impoñer o aspecto <aspect>Desmembrado</aspect> nese supersoldado fúnxico, pero é evidente que iso se mete no ámbito da acción de ataque, e ademáis, leva un pouquiño máis de traballo que eso rabenarlle un brazo (pero como consecuencia si podería funcionar, le máis adiante). Podes _dicir_ que es <aspect>A mellor tiradora do mundo enteiro</aspect>, pero terás que respaldalo coas túas habilidades. E por moito que quixeses declararte <aspect>Inmune ás balas</aspect>, retirando a todo o mundo o permiso de facerte dano a tiros, ninguén o aceptaría a menos que esteades a xogar unha partida na que os aspectos sexan superpoderes.
+Claro, a ti _gustaríache_ usar a acción de crear unha vantaxe para impoñer o aspecto <aspect>Desmembrado</aspect> nese supersoldado fúnxico, pero é evidente que iso se mete no ámbito da acción de ataque, e ademáis, rabenarlle un brazo leva máis traballo que iso (pero como consecuencia si podería funcionar, le máis adiante). Podes _dicir_ que es <aspect>A mellor tiradora do mundo enteiro</aspect>, pero terás que respaldalo coas túas habilidades. E por moito que quixeses declararte <aspect>Inmune ás balas</aspect>, retirando a todo o mundo o permiso de facerte dano a tiros, ninguén o aceptaría a menos que esteades a xogar unha partida na que os aspectos sexan superpoderes.
 
 ## Que tipo de aspectos existen?
 
@@ -26,19 +26,19 @@ Hai [infinitas variedades de aspectos](#outros-tipos-de-aspectos), pero sen impo
 Estes aspectos son os que figuran na túa ficha de personaxe, como o concepto ou o problema. Describen trazos de personalidade, detalles importantes do teu pasado, relacións que tes con outra xente, obxectos ou títulos importantes que posúes, problemas cos que estás a lidar ou metas cara as que estás a traballar, ou reputación e obligacións que pesan sobre ti. Estes aspectos mudan principalmente durante os [fitos](/fate-condensado/avance#fitos).
 
 
-**Exemplos**: <aspect>Líder da miña banda de superviventes</aspect>, <aspect>Atenta aos detalles</aspect>, <aspect>Debo protexer ao meu irmán</aspect>
+Exemplos: <aspect>Líder da miña banda de superviventes</aspect>, <aspect>Atenta aos detalles</aspect>, <aspect>Debo protexer o meu irmán</aspect>
 
 ### Aspectos de situación
 
 Estes aspectos describen a contorna ou escenario no que está a acontecer a acción. Un aspecto de situación desaparece normalmente ao final da escena da que fixo parte, ou cando alguén realiza unha acción que o mudaría ou se libraría del. Esencialmente, duran apenas mentres dure a situación que representan.
 
-**Exemplos**: <aspect>Ardendo</aspect>, <aspect>Brillo do sol</aspect>, <aspect>Turba de xente enfurecida</aspect>, <aspect>Derrubada no chan</aspect>, <aspect>Perseguida pola policía</aspect>
+Exemplos: <aspect>Ardendo</aspect>, <aspect>Brillo do sol</aspect>, <aspect>Turba de xente enfurecida</aspect>, <aspect>Derrubada no chan</aspect>, <aspect>Perseguida pola policía</aspect>
 
 ### Consecuencias
 
 Estes aspectos representan feridas e outros traumas adquiridos por [absorber un impacto](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano), habitualmente debido a ataques.
 
-**Exemplos**: <aspect>Escordadura de nocello</aspect>, <aspect>Conmoción cerebral</aspect>, <aspect>Inseguridade paralizante</aspect>
+Exemplos: <aspect>Escordadura de nocello</aspect>, <aspect>Conmoción cerebral</aspect>, <aspect>Inseguridade paralizante</aspect>
 
 ### Impulsos
 
@@ -56,13 +56,13 @@ Lembra que comezas cada sesión cunha cantidade de puntos de fado mínima equiva
 
 ### Invocacións
 
-Para desatares o auténtico poder dos aspectos e aproveitalos no teu favor, terás que gastar **puntos de fado** para [**invocalos** durante as roladas](/fate-condensado/accions-e-roladas#invocar-aspectos). Leva a conta dos teus puntos de fado usando moediñas, contas de cristal, fichas de póker ou calquera outra doa.
+Para desatares o auténtico poder dos aspectos e aproveitárelos no teu favor, terás que gastar **puntos de fado** para [**invocalos** durante as roladas](/fate-condensado/accions-e-roladas#invocar-aspectos). Leva a conta dos teus puntos de fado usando moediñas, contas de cristal, fichas de póker ou calquera outra doa.
 
 Tamén podes invocar os aspectos de balde, _sempre e cando_ teñas unha invocación de balde túa ou dunha aliada froito de [creardes unha vantaxe](/fate-condensado/accions-e-roladas#crear-unha-vantaxe) que poidas empregar.
 
 #### O truco dos puntos suspensivos
 
-Se buscas unha forma doada de deixar espazo para incorporar aspectos nunha rolada, probar a narrar a túa acción con puntos suspensivos ao final, e logo rematar a acción co aspecto que queiras invocar. Así:
+Se buscas unha forma doada de deixar espazo para incorporar aspectos nunha rolada, proba a narrar a túa acción con puntos suspensivos ao final, e logo rematar a acción co aspecto que queiras invocar. Así:
 
 > Rosa di: «Estou tentando descifrar as runas e…» (rola os dados, aborrece o resultado) «…e como <aspect>Do que non vin en persoa, seguro que lin ao respecto</aspect>…» (gasta un punto de fado) «…enseguida comezo a divagar sobre a súa orixe».
 
@@ -72,7 +72,7 @@ A meirande parte das veces que se invoca un aspecto, é un aspecto de personaxe 
 
 #### Invocar para declarar detalles da historia
 
-Podes engadir detalles importantes ou improbables á historia baseándote nos aspectos en xogo. Non pagues un punto de fado cando abonde que «os aspectos sempre son certos». Paga cando sexa moito pedir ou, se a mesa o permite, cando non haxa ningún aspecto relevante relacionado.
+Podes engadir detalles importantes ou improbables á historia baseándote nos aspectos en xogo. Non pagues un punto de fado cando abonde que «[os aspectos sempre son certos](#os-aspectos-sempre-son-certos)». Paga cando sexa moito pedir ou, se a mesa o permite, cando non haxa ningún aspecto relevante relacionado.
 
 ### Compels
 
