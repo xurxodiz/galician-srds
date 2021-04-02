@@ -3,75 +3,76 @@ Title: "Aspectos e puntos de fado"
 Placing: 4
 ---
 
-# Aspects and Fate Points
+# Aspectos e puntos de fado
 
-<a id="_idTextAnchor013"></a>An **aspect** is a word or phrase that describes something special about a person, place, thing, situation, or group. Almost anything you can think of can have aspects. A person might have a reputation as the **Greatest Sharpshooter in the Wasteland** (see below for more about these kinds of aspects). A room might be **On Fire** after you knock over an oil lamp. After an encounter with a monster, you might be **Terrified**. Aspects let you change the story in ways that go along with your character’s tendencies, skills, or problems.
+Un **aspecto** é unha frase ou palabra que describe algo especial sobre unha persoa, un lugar, unha cousa, unha situación ou un grupo. Case calquera cousa que poidas pensar ten aspectos. Unha persoa pode ter reputación de ser <aspect>A mellor francotiradora do ermo</aspect> (le máis adiante sobre este tipos de aspectos). Unha habitación pode estar <aspect>Ardendo</aspect> tras tirares ao chan un candil. Logo de teres un encontro cun monstro, podes ficar <aspect>Aterrada</aspect>. Os aspectos son a forma de irdes alterando a historia consonte as tendencias, habilidades ou problemas das vosas personaxes.
 
-## Aspects Are Always True
+## Os aspectos sempre son certos
 
-You can invoke aspects for a bonus to a roll (**page XX**) and compel them to create a complication (**page XX**). But even when those aren’t in play, aspects still affect the narrative. When you have that flesh-wrapped monstrosity **Pinned in a Hydraulic Press**, that is _true_. It can’t do much stuck in there, and it’s not getting out easy.
+Podes [invocar os aspectos](#invocacions) para obter un bonificar a unha rolada e [forzalos](#forzados) para crear unha complicación. Pero mesmo fóra desas situacións, os aspectos seguen a afectar á narrativa. Se tes unha monstrosidade carnosa <aspect>Atrapada nunha prensa hidráulica</aspect>, iso é _certo_. Non pode facer moito mentres siga alí metida, e non sairá doadamente.
 
-In essence, “aspects are always true” means that **aspects can grant or withdraw permission for what can happen in the story** (they can also affect difficulty: see **page XX**). If the aforementioned monstrosity is **Pinned**, the GM (and everyone else) has to respect that. The creature has lost permission to move until something happens which removes that aspect, either a successful overcome (which itself might require a justifying aspect like **Superhuman Strength**) or someone foolishly reversing the press. Similarly, if you have **Cybernetically Enhanced Legs**, you’ve arguably gained permission to leap over walls in a single bound without even having to roll for it.
+Básicamente, que «os aspectos sempre sonn certos» significa que **os aspectos conceden ou retiran permiso respecto do que pode acontecer na historia** (tamén poden [afectar á dificultade](/fate-condensado/dirixir-o-xogo#fixar-a-dificultade-e-oposicion)). Se a devandita monstrosidade está **Atrapada**, a DX (e todo o mundo) ten que respectar ese feito. A criatura perdeu permiso para moverse ata que ocorra algo que retire ese aspecto, ben sexa unha rolada de superar con éxito (o que requeriría pola súa parte un aspecto que a xustifique, como <aspect>Forza sobrehumana</aspect>) ou algún babeco que afrouxe a presa. Do mesmo xeito, se tes <aspect>Pernas melloradas cibernéticamente</aspect> parecería claro que che dan permiso para saltares por riba dos muros nun só chimpo sen ter sequera que rolar.
 
-That’s not to say you can create any aspect you want and use its truth like a club. Aspects grant a lot of power to shape the story, yes, but with that power comes the responsibility to play within the story’s constraints. Aspects have to line up with the table’s sense of what actually passes muster. **If an aspect doesn’t pass the sniff test, it needs to be reworded.**
+Isto non quere dicir que poidas crear calquera aspecto que queiras e esgrimir a súa veracidade como excusa para todo. Os aspectos conceden moito poder para modificar a historia, certo, pero canda ese poder vén tamén a responsabilidad de xogar dentro das limitacións da historia. Os aspectos teñen que ir en liña coa percepción da mesa do que é lícito. **Se un aspecto non recibe a aprobación xeral, ten que ser rescrito**.
 
-Sure, you might _like_ to use create an advantage to inflict the aspect **Dismembered** on that fungal super-soldier, but that clearly steps on the toes of the attack action, and besides, it takes a bit more work to lop her arm off than that (could work as a consequence, though—see the next page). You might _say_ you’re the **World’s Best Shot**, but you’ll need to back that up with your skills. And as much as you’d like to make yourself **Bulletproof**, removing permission for someone to use small arms fire to harm you, that is unlikely to fly unless the game you’re playing involves using aspects-as-superpowers.
+Claro, a ti _gustaríache_ usar a acción de crear unha vantaxe para impoñer o aspecto <aspect>Desmembrado</aspect> nese supersoldado fúnxico, pero é evidente que iso se mete no ámbito da acción de ataque, e ademáis, leva un pouquiño máis de traballo que eso rabenarlle un brazo (pero como consecuencia si podería funcionar, le máis adiante). Podes _dicir_ que es <aspect>A mellor tiradora do mundo enteiro</aspect>, pero terás que respaldalo coas túas habilidades. E por moito que quixeses declararte <aspect>Inmune ás balas</aspect>, retirando a todo o mundo o permiso de facerte dano a tiros, ninguén o aceptaría a menos que esteades a xogar unha partida na que os aspectos sexan superpoderes.
 
-## What Kinds of Aspects Are There?
+## Que tipo de aspectos existen?
 
-There’s an endless variety of aspects (see **page XX** for more), but no matter what they’re called, they all work pretty much the same way. The main difference is how long they stick around before going away.
+Hai [infinitas variedades de aspectos](#outros-tipos-de-aspectos), pero sen importar como se chamen, todas funcionan do mesmo xeito. A principal diferencia reside en canto duran antes de desaparecer.
 
-### Character Aspects
+### Aspectos de personaxe
 
-These aspects are on your character sheet, such as your high concept and trouble. They describe personality traits, important details about your past, relationships you have with others, important items or titles you possess, problems you’re dealing with or goals you’re working toward, or reputations and obligations you carry. These aspects primarily change during milestones (**page XX**).
+Estes aspectos son os que figuran na túa ficha de personaxe, como o concepto ou o problema. Describen trazos de personalidade, detalles importantes do teu pasado, relacións que tes con outra xente, obxectos ou títulos importantes que posúes, problemas cos que estás a lidar ou metas cara as que estás a traballar, ou reputación e obligacións que pesan sobre ti. Estes aspectos mudan principalmente durante os [fitos](/fate-condensado/avance#fitos).
 
-**Examples:** **Leader of My Band of Survivors; Attention to Detail; I Must Protect My Brother**
 
-### Situation Aspects
+**Exemplos**: <aspect>Líder da miña banda de superviventes</aspect>, <aspect>Atenta aos detalles</aspect>, <aspect>Debo protexer ao meu irmán</aspect>
 
-These aspects describe the surroundings or scenario where the action is taking place. A situation aspect usually vanishes at the end of the scene it was part of, or when someone takes some action that would change or get rid of it. Essentially, they last only as long as the situation they represent lasts.
+### Aspectos de situación
 
-**Examples:** **On Fire; Bright Sunlight; Crowd of Angry People; Knocked to the Ground; Pursued by the Police**
+Estes aspectos describen a contorna ou escenario no que está a acontecer a acción. Un aspecto de situación desaparece normalmente ao final da escena da que fixo parte, ou cando alguén realiza unha acción que o mudaría ou se libraría del. Esencialmente, duran apenas mentres dure a situación que representan.
 
-### Consequences
+**Exemplos**: <aspect>Ardendo</aspect>, <aspect>Brillo do sol</aspect>, <aspect>Turba de xente enfurecida</aspect>, <aspect>Derrubada no chan</aspect>, <aspect>Perseguida pola policía</aspect>
 
-These aspects represent injuries or other lasting trauma taken by absorbing a hit, often from attacks (**page XX**).
+### Consecuencias
 
-**Examples:** **Sprained Ankle; Concussion; Debilitating Self-Doubt**
+Estes aspectos representan feridas e outros traumas adquiridos por [absorber un impacto](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano), habitualmente debido a ataques.
 
-### Boosts
+**Exemplos**: <aspect>Escordadura de nocello</aspect>, <aspect>Conmoción cerebral</aspect>, <aspect>Inseguridade paralizante</aspect>
 
-A <a id="_idTextAnchor014"></a>**boost** is a special kind of aspect, representing an extremely temporary or minor situation. You cannot compel a boost or spend a fate point to invoke it. You may invoke it once for free, after which it vanishes. An unused boost vanishes when the advantage it represents no longer exists, which may be a few seconds or the duration of a single action. They never persist beyond the end of a scene, and you can hold off naming one until you’re using it. If you’re in control of a boost, you may pass it to an ally if there’s rationale for it.
+### Impulsos
 
-**Examples:** **In My Sights; Distracted; Unstable Footing**
+Un **impulso** é un tipo especial de aspecto que representa unha situación extremadamente pasadía ou menor. Os impulsos non se poden forzar, nin se pode gastar un punto de fado neles para invocalos. Podes invocalos unha vez de balde e despois desaparecen. Un impulso que quede sen usar desaparece cando a vantaxe que representa xa non exista, o que pode acontecer tras uns segundos ou apenas unha acción. Nunca persisten máis alá da fin dunha escena, e podes agardar a darlles nome ata que o vaias a usar. Se controlas un impulso, podes pasarllo a unha aliada se existe unha razón.
 
-## What Can I Do with Aspects?
+**Exemplos**: <aspect>No punto de mira</aspect>, <aspect>Distraído</aspect>, <aspect>Cambaleando</aspect>
 
-### Earning Fate Points
+## Que podo facer cos aspectos?
 
-One way you can earn fate points is by letting your character’s aspects be **compelled** (**page XX**) against you to complicate the situation or make your life harder. You may also get a fate point payout if someone uses your aspect against you in a hostile invoke (**page XX**) or when you concede (**page XX**).
+### Gañar puntos de fado
 
-Remember, each session, you also start with fate points at least equal to your **refresh**. If you were compelled more than you invoked in the prior session, you’ll show up at the next one with more. See **page XX** for details.
+Unha forma de gañar puntos de fado é permitindo que os aspectos da túa personaxe sexan [**forzados**](#forzados) contra ti para enlear a situación ou complicarche a vida. Tamén podes recibir un punto de fado en troco se alguén usa o teu aspecto contra ti nunha [invocación hostil](#invocacions-hostis) ou cando [desistes](/fate-condensado/desafios-conflitos-e-competicions#desistir).
 
-### Invokes
+Lembra que comezas cada sesión cunha cantidade de puntos de fado mínima equivalente á túa **recarga**. Pero se na sesión anterior te forzaron máis do que invocaches, [chegarás á seguinte con máis](/fate-condensado/comezando#recarga).
 
-To unlock the true power of aspects and make them help you, you’ll need to spend <a id="_idTextAnchor015"></a>**fate points** to <a id="_idTextAnchor016"></a>**invoke** them during dice rolls (**page XX**). Keep track of your fate points with pennies or glass beads or poker chips or some other tokens.
+### Invocacións
 
-You can also invoke aspects for free, _if_ you have a free invoke from you or an ally creating an advantage you can use (**page XX**).
+Para desatares o auténtico poder dos aspectos e aproveitalos no teu favor, terás que gastar **puntos de fado** para [**invocalos** durante as roladas](/fate-condensado/accions-e-roladas#invocar-aspectos). Leva a conta dos teus puntos de fado usando moediñas, contas de cristal, fichas de póker ou calquera outra doa.
 
-#### The Ellipsis Trick
+Tamén podes invocar os aspectos de balde, _sempre e cando_ teñas unha invocación de balde túa ou dunha aliada froito de [creardes unha vantaxe](/fate-condensado/accions-e-roladas#crear-unha-vantaxe) que poidas empregar.
 
-If you want an easy way to ensure you have room to incorporate aspects into a roll, try narrating your action with an ellipsis at the end (“...”), and then finish the action with the aspect you want to invoke. Like this:
+#### O truco dos puntos suspensivos
 
-Ryan says, “So I’m trying to decipher the runes and...” (rolls the dice, hates the result) “...and **If I Haven’t Been There, I’ve Read About It**...” (spends a fate point) “...so I easily start rambling about their origin.”
+Se buscas unha forma doada de deixar espazo para incorporar aspectos nunha rolada, probar a narrar a túa acción con puntos suspensivos ao final, e logo rematar a acción co aspecto que queiras invocar. Así:
 
-#### Hostile Invocations
+> Rosa di: «Estou tentando descifrar as runas e…» (rola os dados, aborrece o resultado) «…e como <aspect>Do que non vin en persoa, seguro que lin ao respecto</aspect>…» (gasta un punto de fado) «…enseguida comezo a divagar sobre a súa orixe».
 
-Most of the time an aspect is invoked, it’s a character aspect or a situation aspect. Sometimes you’ll invoke enemies’ character aspects _against_ them. This is called a <a id="_idTextAnchor017"></a>**hostile invocation**, and it works just like invoking any other aspect—pay a fate point and get a +2 to your roll or reroll the dice. There’s one small difference—**when you make a hostile invocation, you give the fate point to the enemy.** But they don’t get to use the fate point until after the scene is over. This payout only applies when a fate point is actually spent on a hostile invocation. Free invokes do not trigger a payout.
+#### Invocacións hostís
 
-#### Invoking to Declare Story Details
+A meirande parte das veces que se invoca un aspecto, é un aspecto de personaxe ou un aspecto de situación. Ás veces invocarás os aspectos das personaxes inimigas _na súa contra_. Isto se chama unha **invocación hostil**, e funciona exactamente igual que invocar calquera outro aspecto: pagas un punto de fado e obtés +2 a unha rolada ou rolas os dados de novo. Hai unha pequena diferencia: **cando fas unha invocación hostil, entregas o punto de fado ao inimigo**. Con todo, non poden usalo ata despois de rematar a escena. Esta compensación só se aplica cando se gasta un punto de fado na invocación hostil. As invocacións de balde non comportan unha compensación.
 
-You may spend a fate point to add an important or unlikely detail to the story based on an aspect in play. In cases where “aspects are always true” (page XX) suffices, you do not need to spend the fate point; paying is for when it’s a stretch.
+#### Invocar para declarar detalles da historia
+
+Podes engadir detalles importantes ou improbables á historia baseándote nos aspectos en xogo. Non pagues un punto de fado cando abonde que «os aspectos sempre son certos». Paga cando sexa moito pedir ou, se a mesa o permite, cando non haxa ningún aspecto relevante relacionado.
 
 ### Compels
 

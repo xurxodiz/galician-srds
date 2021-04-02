@@ -197,9 +197,9 @@ Se se trata dun aspecto existente, público ou non, as posibles resolucións son
 
 > Eva enfróntase cara a cara cun shoggoth, unha imparable mole de músculo. Consciente de que é poderosa de máis para atacala directamente, decide que a súa mellor opción é distraela, e anuncia: «Quero facer un cóctel Molotov para guindarllo enriba e prenderlle lume!».
 >
-> A DX conclúe que atinar no shoggoth non ten truco ningún, así que a rolada é realmente de Aparellos: canto tardará en dar atopado algo inflamable co que argallar o cóctel? Fixa unha dificultade boa (+3). Eva ten un nivel regular (+1) en Aparellos, pero rola <fate>0+++</fate>, dándolle un esforzo total formidable (+4).
+> A DX conclúe que atinar no shoggoth non ten truco ningún, así que a rolada é realmente de Aparellos: dará atopado a tempo algo inflamable co que argallar o cóctel? Fixa unha dificultade boa (+3). Eva ten un nivel regular (+1) en Aparellos, pero rola <fate>0+++</fate>, dándolle un esforzo total formidable (+4).
 >
-> Eva monta o cóctel Molotov e lánzallo á besta. O shoggoth está agora <aspect>Ardendo</aspect>, e Eva ten unha invocación de balde nese aspecto. A besta fica distraída como ela quería, e se tenta perseguila, Eva poderá servirse da invocación para axudarse a fuxir.
+> Eva monta o cóctel Molotov e lánzallo á besta. O shoggoth está agora <aspect>Ardendo</aspect>, e Eva ten unha invocación de balde nese aspecto. A besta fica distraída como ela quería e, se tenta perseguila, Eva poderá servirse da invocación para axudarse a fuxir.
 
 
 ### Atacar
@@ -255,4 +255,4 @@ A lista predeterminada de habilidades segue estas pautas:
 * Provocación pode usarse para facer ataques mentais.
 * Vontade pode usarse para defenderse de ataques mentais.
 
-A DX ou un consenso da mesa poden dar permiso en certas circunstancias para atacar ou defender con outras habilidades. Algúns talentos poden garantir tales permisos dun xeito máis amplo mesmo cando as circunstancias non o permitirían de forma normal. Cando unha habilidade non se poida usar para atacar ou defender directamente, pero poida ser de axuda, prepara o terreo usándoa coa acción de crear unha vantaxe, e emprega logo as invocacións de balde xeradas na túa seguinte rolada de ataque ou defensa.
+A DX ou un consenso da mesa poden dar permiso en certas circunstancias para atacar ou defender con outras habilidades. Algúns talentos poden garantir tales permisos dun xeito máis amplo mesmo cando as circunstancias non o permitirían de forma normal. Cando unha habilidade non se poida usar para atacar ou defender directamente, pero poida ser de axuda, prepara o terreo usándoa coa acción de crear unha vantaxe, e emprega logo na túa seguinte rolada de ataque ou defensa as invocacións de balde xeradas.
