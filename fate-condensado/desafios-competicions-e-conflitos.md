@@ -5,11 +5,11 @@ Placing: 5
 
 # Desafíos, competicións e conflitos
 
-Frecuentemente, poderas resolver unha acción cunha simple rolada dos dados: serás capaz de abrir a caixa forte, eludir a seguridade, ou convencer á xornalista de que che dea as súas notas? Outras veces, as confrontacións precisarán de varias roladas para resolverse. Para eses casos, ofrecémosvos tres ferramentas de resolución: **desafíos**, **competicións** e **conflitos**. Cada un funciona lixeiramente diferente, dependendo do obxectivo da confrontación e da oposición existente.
+Frecuentemente, poderás resolver unha acción cunha simple rolada dos dados: serás capaz de abrir a caixa forte, eludir a seguridade, ou convencer á xornalista de que che dea as súas notas? Outras veces, as confrontacións precisarán de varias roladas para resolverse. Para eses casos, ofrecémosvos tres ferramentas de resolución: **desafíos**, **competicións** e **conflitos**. Cada unha funciona lixeiramente diferente, dependendo do obxectivo da confrontación e da oposición existente.
 
-* **Un desafío é unha situación complicada ou dinámica.** Haberá algo ou alguén que se vos opoña, pero non hai «outro bando» claro. Esta é a forma na que interpretaredes unha investigadora procurando pistas nun tomo antigo, a negociadora do equipo distraendo á bibliotecaria, e a varuda retendo horrores innomeábeis ás portas da biblioteca, todo ao mesmo tempo.
+* **Un desafío é unha situación complicada ou dinámica.** Haberá algo ou alguén que se vos opoña, pero non hai un «outro bando» claro. Esta é a forma na que interpretaredes unha investigadora procurando pistas nun tomo antigo, a negociadora do equipo distraendo á bibliotecaria, e a varuda retendo horrores innomeábeis ás portas da biblioteca, todo ao mesmo tempo.
 * **Unha competición é unha situación na cal dous equipos persiguen metas mutuamente exclusivas, pero sen se faceren dano activamente.** As competicións son perfectas para persecucións, debates e carreiras de todo tipo. (E que os equipos non estean tentando danarse un ao outro non quere dicir que non poidan sufrir dano!).
-* **Un conflito é cando as personaxes poden e queren danarse unhas ás outras.** Forcexar na lama cun seitario mentres vos apuñalades no ventre, cribar con balas unha horda de gules que están a resgarvos coas súas garras, e intercarmbiar picadas retranqueiras coa vosa rival en presenza de raíña son todos exemplos de conflitos.
+* **Un conflito é cando as personaxes poden e queren danarse unhas ás outras.** Forcexar na lama cun seitario mentres vos apuñalades no ventre, cribar con balas unha horda de gules que están a resgarvos coas súas garras, e intercambiar picadas retranqueiras coa vosa rival en presenza da raíña son todos exemplos de conflitos.
 
 ## Preparar escenas
 
@@ -17,17 +17,17 @@ Sen importar o tipo de escena, a DX sempre comezará deitando as pezas esencias 
 
 ### Zonas
 
-As **zonas** son unha representación do espazo físico, un mapa rápido dividido en seccións. Un conflito nunha casa do rural podería ter catro zonas: o andar inferior, o primeiro superior, o xardín de diante e os campos da parte traseira. Na meirande parte dos conflitos abonda con ter entre dúas e catro zonas, aínda que as escenas grandes ou complicadas poden requerir máis. Tenta que o mapa das zonas non pase de ser un rascuño, algo que caiba nunha notiña ou que poida ser debuxado rápido nun encerado.
+As **zonas** son unha representación do espazo físico, un mapa rápido dividido en seccións. Un conflito nunha casa do rural podería ter catro zonas: o andar inferior, o andar superior, o xardín dianteiro e os campos da parte traseira. Na meirande parte dos conflitos abonda con ter entre dúas e catro zonas, aínda que as escenas grandes ou complicadas poden requerir máis. Tenta que o mapa das zonas non pase de ser un rascuño, algo que caiba nunha notiña ou que poida ser debuxado rápido nun encerado.
 
 As zonas axudan a orientar a historia delimitando aquilo que é posible. A quen podes atacar e a onde te podes mover dependen da zona na que esteas.
 
 **Calquera que estea nunha zona pode interactuar con todo e todos os que estean nesa zona**. Isto implica que podes bater, apuñalar e interaxir físicamente coa xente e as cousas da túa zona. Necesitas abrir esa caixa incrustada do dormitorio? Terás que estar nesa zona. Calquera cousa fóra da túa zona está, polo xeral, fóra do teu alcance; terás que moverte para chegar a ela, ou usar algo que poida extender o teu alcance atá alí (telecinesia, unha pistola, etc).
 
-Moverse entre zonas é sinxelo, sempre que non haxa nada no teu camiño. **Durante un intercambio, ademais de facer a túa acción, podes moverte a unha zona adxacente mentres nada se interpoña no teu camiño.** Se algo impide o teu movemento, moverte gasta a túa acción. Rola por superar para trepar un muro, atravesar un grupo de seitarios, ou saltar dun tellado a outro. Se fracasas, quedas na túa zona ou o movemento cústache algo. Tamén podes usar a túa acción para moverte a _calquera sitio_ do mapa, pero a DX ten dereito a fixar unha dificultade alta se se trata dun movemento épico.
+Moverse entre zonas é sinxelo, sempre que non haxa nada no teu camiño. **Durante un intercambio, ademais de facer a túa acción, podes moverte a unha zona adxacente mentres nada se interpoña no teu camiño.** Se algo impide o teu movemento, moverte gasta a túa acción. Rola por superar para trepar un muro, atravesar un grupo de seitarios, ou saltar dun tellado a outro. Se fracasas, quedas na túa zona ou o movemento cústache algo. Tamén podes usar a túa acción para moverte _a calquera sitio_ do mapa, pero a DX ten dereito a fixar unha dificultade alta se se trata dun movemento épico.
 
-Se algo non é suficientemente arriscado ou interesante para merecer unha rolada, entón tampouco é un impedimento para moverse. Por exemplo: non necesitas gastar a túa acción abrindo unha porta que non teña fecho, fai parte do movemento mesmo.
+Se algo non é suficientemente arriscado ou interesante para merecer unha rolada, entón tampouco é un impedimento para moverse. Por exemplo: non necesitas gastar a túa acción abrindo unha porta que non teña fecho; fai parte do movemento mesmo.
 
-Disparar permite atacar a distancia. Os ataques a distancia poden facer albo a inimigos en zonas adxacentes ou mesmo máis afastadas, se as zonas están despexadas. Se houbese unha criatura arrastrándose polo dormitorio do andar superior, á volta do recanto, non poderías dispararlle desde abaixo das escaleiras. Mirade ben como están definidas as zonas e os aspectos de situación ao decidirdes o que é lícito e o que non.
+Disparar permite atacar a distancia. Os ataques a distancia poden facer albo a inimigos en zonas adxacentes ou mesmo máis afastadas, se as zonas estiveren suficientemente despexadas. Se houbese unha criatura remexendo no dormitorio do andar superior, á volta do recanto, non poderías dispararlle desde abaixo das escaleiras. Mirade ben como están definidas as zonas e os aspectos de situación ao decidirdes o que é lícito e o que non.
 
 ### Situation Aspects
 
