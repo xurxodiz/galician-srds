@@ -122,9 +122,9 @@ As invocacións hostís axúdante no momento presente. Ademais dos teus aspectos
 
 Podes crear ou descubrir un aspecto de situación usando a acción de [crear unha vantaxe](/fate-condensado/accions-e-roladas#crear-unha-vantaxe). Os impulsos tamén se poden crear desa forma, ou como resultado dun empate ou éxito con estilo cando atacas, defendes ou superas un obstáculo.
 
-Podes quitar un aspecto se es quen de pensar como podería eliminalo a túa personaxe: rociando o <aspect>Lume abrasador</aspect> cun extintor ou usando manobras evasivas para escapar do garda que está <aspect>Pisándoche os talóns</aspect>. Dependendo da situación, isto podería requerir unha acción de [superar](/fate-condensado/accions-e-roladas#superar), se for así, un opoñente podería usar a acción de defender para tentar manter o aspecto, se son quen de explicar que fai exactamente.
+Podes quitar un aspecto se es quen de pensar como podería eliminalo a túa personaxe: rociando o <aspect>Lume abrasador</aspect> cun extintor ou usando manobras evasivas para escapar do garda que está <aspect>Pisándoche os talóns</aspect>. Dependendo da situación, isto podería requerir unha acción de [superar](/fate-condensado/accions-e-roladas#superar); se for así, un opoñente podería usar a acción de defender para tentar manter o aspecto, se é quen de explicar que fai exactamente.
 
-Con todo, se non hai un obstáculo narrativo para poderes quitar o aspecto, podes quitaalo sen máis. Se estás <aspect>Atada e amordazada</aspect> e unha amiga te desata, o aspecto desaparece. Se non hai nada que te pare, non é necesario rolar.
+Con todo, se non hai un obstáculo narrativo para poderes quitar o aspecto, podes quitalo sen máis. Se estás <aspect>Atada e amordazada</aspect> e unha amiga te desata, o aspecto desaparece. Se non hai nada que te pare, non é necesario rolar.
 
 ## Outros tipos de aspectos
 
