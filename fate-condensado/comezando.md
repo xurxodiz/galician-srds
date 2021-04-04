@@ -229,7 +229,7 @@ O teu nivel en Vigor condiciona cantas caixas de estrés físico tes en total. V
 | Bo (+3) ou formidable (+4)     | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress><stress>1</stress><stress>1</stress> |
 | Soberbio (+5) ou maior         | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress><stress>1</stress><stress>1</stress> e un segundo espazo de consecuencia leve específicamente para impactos físicos ou mentais |
 
-Aprenderás máis sobre como funcionan o estrés e as consecuencias na sección [_Recibir dano_](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano).
+Aprenderás máis sobre como funcionan o estrés e as consecuencias na sección [_Recibir dano_](/fate-condensado/desafios-competicions-e-conflitos#recibir-dano).
 
 #### Para aí, isto non é o que lembro eu!
 
@@ -237,7 +237,7 @@ En _Fate Condensado_ usamos soamente caixas de estrés de 1 punto. Tanto _Fate B
 
 Hai outras particularidades deste estilo que cómpre que teñas en conta.
 
-* Como verás na sección [_Recibir dano_](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano), coas caixas de 1 punto podes marcar tantas como ti queiras cando che impactan (no estilo crecente de Fate Básico, pola contra, estabas limitado a marcar unha caixa por impacto).
+* Como verás na sección [_Recibir dano_](/fate-condensado/desafios-competicions-e-conflitos#recibir-dano), coas caixas de 1 punto podes marcar tantas como ti queiras cando che impactan (no estilo crecente de Fate Básico, pola contra, estabas limitado a marcar unha caixa por impacto).
 * Este estilo acompaña ao costume de Fate Básico de ter barras separadas para estrés físico e mental, en troques de unha barra unificada como en Fate Acelerado. Se prefires unha barra unificada, engade tres caixas máis para compensar, e usa _ou_ Vigor _ou_ Vontade, o de máis nivel, para alongala como se indicaba na táboa.
 * Unha absorción de tres puntos en cada barra non che é moito! Se notades que as personaxes se sinten un pouco fráxiles nas partidas, talvez queirades engadir unha ou dúas caixas máis á cantidade predeterminada. Todo depende de como de rápido vaian chegando as consecuencias. (Co estilo vello, unha barra con <stress>1</stress><stress>2</stress> absorbía entre 2 e 3 de estrés, <stress>1</stress><stress>2</stress><stress>3</stress> de 3 a 6, <stress>1</stress><stress>2</stress><stress>3</stress><stress>4</stress> de 4 a 10).
 

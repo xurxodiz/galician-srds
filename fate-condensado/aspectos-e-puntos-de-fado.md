@@ -36,7 +36,7 @@ Exemplos: <aspect>En chamas</aspect>, <aspect>Brillo do sol</aspect>, <aspect>Tu
 
 ### Consecuencias
 
-Estes aspectos representan feridas e outros traumas adquiridos por [absorber un impacto](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano), habitualmente debido a ataques.
+Estes aspectos representan feridas e outros traumas adquiridos por [absorber un impacto](/fate-condensado/desafios-competicions-e-conflitos#recibir-dano), habitualmente debido a ataques.
 
 Exemplos: <aspect>Escordadura de nocello</aspect>, <aspect>Conmoción cerebral</aspect>, <aspect>Inseguridade paralizante</aspect>
 
@@ -50,7 +50,7 @@ Un **impulso** é un tipo especial de aspecto que representa unha situación ext
 
 ### Gañar puntos de fado
 
-Unha forma de gañar puntos de fado é permitindo que os aspectos da túa personaxe sexan [**forzados**](#forzados) contra ti para enlear a situación ou complicarche a vida. Tamén podes recibir un punto de fado en troco se alguén usa o teu aspecto contra ti nunha [invocación hostil](#invocacions-hostis) ou cando [desistes](/fate-condensado/desafios-conflitos-e-competicions#desistir).
+Unha forma de gañar puntos de fado é permitindo que os aspectos da túa personaxe sexan [**forzados**](#forzados) contra ti para enlear a situación ou complicarche a vida. Tamén podes recibir un punto de fado a cambio de que alguén use o teu aspecto contra ti nunha [invocación hostil](#invocacions-hostis) ou cando [desistes](/fate-condensado/desafios-competicions-e-conflitos#desistir).
 
 Lembra que comezas cada sesión cunha cantidade de puntos de fado mínima equivalente á túa **recarga**. Pero se na sesión anterior te forzaron máis do que invocaches, [chegarás á seguinte con máis](/fate-condensado/comezando#recarga).
 
@@ -136,4 +136,4 @@ Os [tipos habituais de aspectos](#que-tipo-de-aspectos-existen) xa os cobrimos a
 
 **Aspectos de ambientación**: Como nos aspectos de escenario, a ambientación da vosa campaña tamén pode ter temas recurrentes. Contrariamente, estes nunca desaparecen.
 
-**Aspectos de zona**: Podes anexarlle aspectos de situación a un lugar concreto do mapa [representado por unha zona](/fate-condensado/desafios-conflitos-e-competicions#zonas). Isto engade dinamismo extra ás interaccións do grupo co mapa. A DX pode alentar esta dinámica creando invocacións de balde libremente dispoñibles nun aspecto de zona ao comeza da escena, atraendo así as personaxes (tanto das xogadoras como non) para se aproveitaren dese aspecto na súa estratexia inicial.
+**Aspectos de zona**: Podes anexarlle aspectos de situación a un lugar concreto do mapa [representado por unha zona](/fate-condensado/desafios-competicions-e-conflitos#zonas). Isto engade dinamismo extra ás interaccións do grupo co mapa. A DX pode alentar esta dinámica creando invocacións de balde libremente dispoñibles nun aspecto de zona ao comeza da escena, atraendo así as personaxes (tanto das xogadoras como non) para se aproveitaren dese aspecto na súa estratexia inicial.

@@ -3,31 +3,31 @@ Title: "Desafíos, conflitos e competicións"
 Placing: 5
 ---
 
-# Challenges, Conflicts, and Contests
+# Desafíos, competicións e conflitos
 
-Many times, you will be able to resolve an action with a single roll of the dice—do you crack the safe, avoid security, or convince the reporter to give you their notes? Other times you’ll face extended engagements that take many rolls to resolve. For those cases, we offer three resolution tools: **challenges**, **contests**, and **conflicts**. Each does things a little differently, depending on the goal of the engagement and the opposition involved.
+Frecuentemente, poderas resolver unha acción cunha simple rolada dos dados: serás capaz de abrir a caixa forte, eludir a seguridade, ou convencer á xornalista de que che dea as súas notas? Outras veces, as confrontacións precisarán de varias roladas para resolverse. Para eses casos, ofrecémosvos tres ferramentas de resolución: **desafíos**, **competicións** e **conflitos**. Cada un funciona lixeiramente diferente, dependendo do obxectivo da confrontación e da oposición existente.
 
-*   **A challenge is a complicated or dynamic situation.** You’ll be opposed by someone or something, but there isn’t a dominant “other side.” This is how you might play out a researcher looking for clues in an ancient tome, the party negotiator distracting the librarian, and the bruiser holding back untold horrors from entering the library all at the same time.
-*   **A contest is a situation where two parties are pursuing mutually exclusive goals, but not actively harming one another.** Contests are perfect for chases, debates, and races of all sorts. (And just because the parties are not trying to harm each other doesn’t mean that harm can’t befall them!)
-*   **A conflict is when characters can and want to harm one another.** Wrestling in the mud with a cultist as knives stab at bellies, riddling a swarm of ghouls with bullets as their claws rake at your flesh, and an exchange of vicious barbs with your rival under the watchful eye of the queen—these are all conflicts.
+* **Un desafío é unha situación complicada ou dinámica.** Haberá algo ou alguén que se vos opoña, pero non hai «outro bando» claro. Esta é a forma na que interpretaredes unha investigadora procurando pistas nun tomo antigo, a negociadora do equipo distraendo á bibliotecaria, e a varuda retendo horrores innomeábeis ás portas da biblioteca, todo ao mesmo tempo.
+* **Unha competición é unha situación na cal dous equipos persiguen metas mutuamente exclusivas, pero sen se faceren dano activamente.** As competicións son perfectas para persecucións, debates e carreiras de todo tipo. (E que os equipos non estean tentando danarse un ao outro non quere dicir que non poidan sufrir dano!).
+* **Un conflito é cando as personaxes poden e queren danarse unhas ás outras.** Forcexar na lama cun seitario mentres vos apuñalades no ventre, cribar con balas unha horda de gules que están a resgarvos coas súas garras, e intercarmbiar picadas retranqueiras coa vosa rival en presenza de raíña son todos exemplos de conflitos.
 
-## Setting Up Scenes
+## Preparar escenas
 
-Regardless of the type of scene, the GM will start by setting the essential pieces into place, so that the players know what resources are available and what complications are in play.
+Sen importar o tipo de escena, a DX sempre comezará deitando as pezas esencias para que as xogadoras saiban de que recursos dispoñen e que complicacións están presentes. 
 
-### Zones
+### Zonas
 
-**Zones** are a representation of the physical space—a quick map broken into a few discrete sections. A conflict in a remote farmhouse might have four zones: the first floor, second floor, front yard, and back woods. Two to four zones are sufficient to handle most conflicts. Large or complicated scenes may require more. Try to keep your zone map to a simple sketch, something that fits on a note card or can be quickly drawn on a whiteboard.
+As **zonas** son unha representación do espazo físico, un mapa rápido dividido en seccións. Un conflito nunha casa do rural podería ter catro zonas: o andar inferior, o primeiro superior, o xardín de diante e os campos da parte traseira. Na meirande parte dos conflitos abonda con ter entre dúas e catro zonas, aínda que as escenas grandes ou complicadas poden requerir máis. Tenta que o mapa das zonas non pase de ser un rascuño, algo que caiba nunha notiña ou que poida ser debuxado rápido nun encerado.
 
-Zones help guide the story by shaping what is possible. Who you can attack and where you can move depend on the zone you’re in.
+As zonas axudan a orientar a historia delimitando aquilo que é posible. A quen podes atacar e a onde te podes mover dependen da zona na que esteas.
 
-**Anyone in a zone can interact with everyone and everything in that zone.** This means you can hit, stab, or otherwise physically engage with people and things in your zone. Need to open that wall safe in the bedroom? You’ll have to be in that zone. Anything outside your zone is usually beyond your reach—you’ll need to move to get there, or use something that can extend your reach there (telekinesis, a gun, etc).
+**Calquera que estea nunha zona pode interactuar con todo e todos os que estean nesa zona**. Isto implica que podes bater, apuñalar e interaxir físicamente coa xente e as cousas da túa zona. Necesitas abrir esa caixa incrustada do dormitorio? Terás que estar nesa zona. Calquera cousa fóra da túa zona está, polo xeral, fóra do teu alcance; terás que moverte para chegar a ela, ou usar algo que poida extender o teu alcance atá alí (telecinesia, unha pistola, etc).
 
-Moving between zones is easy, as long as there’s nothing in your way. **You can move to an adjacent zone in addition to your action during an exchange (****page XX****) as long as nothing is in your way.** If your movement is impeded, it takes your action to do so. Make an overcome roll to climb a wall, rush past a group of cultists, or leap across rooftops. If you fail, you stay in your zone or the movement costs you something. You can also use your action to move _anywhere_ on the map—though the GM is within rights to set a high difficulty if it’s an epic movement.
+Moverse entre zonas é sinxelo, sempre que non haxa nada no teu camiño. **Durante un intercambio, ademais de facer a túa acción, podes moverte a unha zona adxacente mentres nada se interpoña no teu camiño.** Se algo impide o teu movemento, moverte gasta a túa acción. Rola por superar para trepar un muro, atravesar un grupo de seitarios, ou saltar dun tellado a outro. Se fracasas, quedas na túa zona ou o movemento cústache algo. Tamén podes usar a túa acción para moverte a _calquera sitio_ do mapa, pero a DX ten dereito a fixar unha dificultade alta se se trata dun movemento épico.
 
-If something isn’t risky or interesting enough to merit a roll, then it isn’t an impediment to movement. For instance, you don’t need to use up your action opening an unlocked door—that’s just a part of the movement.
+Se algo non é suficientemente arriscado ou interesante para merecer unha rolada, entón tampouco é un impedimento para moverse. Por exemplo: non necesitas gastar a túa acción abrindo unha porta que non teña fecho, fai parte do movemento mesmo.
 
-Shooting lets you attack from a distance. Ranged attacks can target enemies in adjacent zones or maybe further, if the zones are clear enough. If there’s a creature rooting around in the bedroom upstairs and around the corner, you can’t shoot it from the bottom of the stairs. Pay attention to the way the zones and situation aspects are set up when deciding what’s fair game or not.
+Disparar permite atacar a distancia. Os ataques a distancia poden facer albo a inimigos en zonas adxacentes ou mesmo máis afastadas, se as zonas están despexadas. Se houbese unha criatura arrastrándose polo dormitorio do andar superior, á volta do recanto, non poderías dispararlle desde abaixo das escaleiras. Mirade ben como están definidas as zonas e os aspectos de situación ao decidirdes o que é lícito e o que non.
 
 ### Situation Aspects
 

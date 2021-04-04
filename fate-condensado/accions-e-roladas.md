@@ -39,7 +39,7 @@ A oposición pode vir de moitas formas. Forcexar cun cultista pola daga do ritua
 
 ## Modificar a rolada
 
-No teu turno, podes invocar aspectos para modificar a rolada e así engadirlle +2 ou rolar outra vez. Algúns talentos tamén che dan bonificadores. Os aspectos tamén se poden invocar para [axudar unha aliada](/fate-condensado/desafios-conflitos-e-competicions#traballo-en-equipo) ou para incrementar a dificultade á que se enfronta un inimigo.
+No teu turno, podes invocar aspectos para modificar a rolada e así engadirlle +2 ou rolar outra vez. Algúns talentos tamén che dan bonificadores. Os aspectos tamén se poden invocar para [axudar unha aliada](/fate-condensado/desafios-competicions-e-conflitos#traballo-en-equipo) ou para incrementar a dificultade á que se enfronta un inimigo.
 
 ### Invocar aspectos
 
@@ -216,7 +216,7 @@ As posibles resolucións ao atacares son:
 
 * **Se empatas**, apenas ten efecto, ou como moito o defensor dá un chouto. En calquera caso, obtés un [impulso](/fate-condensado/aspectos-e-puntos-de-fado#impulsos).
 
-* **Se tes éxito**, causas un impacto igual á diferencia entre o total do teu ataque e o esforzo da defensa. O defensor debe absorber este impacto con estrés ou consecuencias, ou quedará [fóra de xogo](/fate-condensado/desafios-conflitos-e-competicions#quedar-fora-de-xogo).
+* **Se tes éxito**, causas un impacto igual á diferencia entre o total do teu ataque e o esforzo da defensa. O defensor debe absorber este impacto con estrés ou consecuencias, ou quedará [fóra de xogo](/fate-condensado/desafios-competicions-e-conflitos#quedar-fora-de-xogo).
 
 * **Se tes éxito con estilo**, causas un impacto como no éxito, pero podes reducir os chanzos do impacto en un para obter un impulso.
 
@@ -232,7 +232,7 @@ A defensa é a única acción reactiva en _Fate Condensado_. Úsase para pórlle
 
 As posibles resolucións ao defenderes son:
 
-* **Se fracasas** contra un ataque, recibes un impacto que debes absorber con [estrés](/fate-condensado/desafios-conflitos-e-competicions#estres) ou [consecuencias](/fate-condensado/desafios-conflitos-e-competicions#consecuencias). En calquera caso, o inimigo ten éxito tal e como se describa para a súa acción.
+* **Se fracasas** contra un ataque, recibes un impacto que debes absorber con [estrés](/fate-condensado/desafios-competicions-e-conflitos#estres) ou [consecuencias](/fate-condensado/desafios-competicions-e-conflitos#consecuencias). En calquera caso, o inimigo ten éxito tal e como se describa para a súa acción.
 
 * **Se empatas**, segue a resolución de empate para a acción oposta.
 

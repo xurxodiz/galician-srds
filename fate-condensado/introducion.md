@@ -19,8 +19,8 @@ _Fate Condensado_ usa **dados Fate** cando as personaxes actúan. Os dados Fate 
 
 Cando se condensa a esencia dun sistema de case 300 páxinas en apenas unhas 50 é inevitable facer algúns axustes. No momento de escribirmos isto xa pasaron oito anos des que se creara _Fate Básico_, así que é esperable tamén que o deseño evolucione un anaco. En concreto, queremos resaltar o seguinte:
 
-* Decidimos pasar a usar [caixas de estrés dun só punto](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano) para evitar confusións.
-* [A iniciativa «Balsera»](/fate-condensado/desafios-conflitos-e-competicions#orde-dos-turnos) (tamén coñecida como «orde electiva» ou «iniciativa pipoca») é agora a predeterminada, en vez de usar habilidades para fixar os turnos.
+* Decidimos pasar a usar [caixas de estrés dun só punto](/fate-condensado/desafios-competicions-e-conflitos#recibir-dano) para evitar confusións.
+* [A iniciativa «Balsera»](/fate-condensado/desafios-competicions-e-conflitos#orde-dos-turnos) (tamén coñecida como «orde electiva» ou «iniciativa pipoca») é agora a predeterminada, en vez de usar habilidades para fixar os turnos.
 * [O avance](/fate-condensado/avance) funciona un bocado diferente: eliminamos os fitos significativos e afinamos os fitos maiores para compensar.
 * Retiramos o concepto de oposición activa como algo separado da [acción de Defender](/fate-condensado/accions-e-roladas#defender). Isto ten algún efecto colateral, particularmente no [resultado de empate para Superar](/fate-condensado/accions-e-roladas#superar).
 * Modificamos [Crear unha Vantaxe](/fate-condensado/accions-e-roladas#crear-unha-vantaxe) para facela máis clara e dar máis axencia no tocante á descuberta de aspectos existentes pero descoñecidos.
