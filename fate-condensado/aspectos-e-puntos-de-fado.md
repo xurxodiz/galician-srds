@@ -74,66 +74,66 @@ A meirande parte das veces que se invoca un aspecto, é un aspecto de personaxe 
 
 Podes engadir detalles importantes ou improbables á historia baseándote nos aspectos en xogo. Non pagues un punto de fado cando abonde que «[os aspectos sempre son certos](#os-aspectos-sempre-son-certos)». Paga cando sexa moito pedir ou, se a mesa o permite, cando non haxa ningún aspecto relevante relacionado.
 
-### Compels
+### Forzados
 
-Aspects can be <a id="_idTextAnchor018"></a>**compelled** to complicate the situation and earn fate points. To compel an aspect, the GM or a player offers a fate point to the player whose character is being compelled, and tells them why an aspect is making things more difficult or complicated. If you refuse the compel, you must spend a fate point from your own supply and describe how your character avoids the complication. Yes, this means that if you don’t have any fate points, you can’t refuse a compel!
+Os aspectos pódense **forzar** para complicar a situación e gañar puntos de fado. Para forzar un aspecto, a DX ou unha xogadora ofrece un punto de fado á xogadora cuxa personaxe está sendo forzada, e cóntalle por que hai un aspecto que lle está a facer as cousas máis difíciles ou complicadas. Se rexeitas un forzado, debes gastar un punto de fado da túa propia reserva e describir como evita a complicación a túa personaxe. Efectivamente: iso quere dicir que se non che quedan puntos de fado, non podes rexeitar un forzado.
 
-**Any aspect can be compelled**—whether it’s a character aspect, situation aspect, or consequence—but it must be something that affects the character being compelled.
+**Calquera aspecto pode ser forzado**, sexa un aspecto de personaxe, de situación, ou consecuencia, pero debe ser algo que afecte á personaxe á que se forza.
 
-**Anyone can offer a compel.** The player proposing the compel must spend one of their own fate points. The GM then takes over running the compel for the affected target. The GM does not lose a fate point by offering a compel—they have a limited pool of fate points for invoking aspects, but can compel as much as they’d like.
+**Calquera pode ofrecer un forzado.** A xogadora que propoña o forzado debe gastar un dos seus propios puntos de fado. Despois, a DX é quen se encarga de desenvolver o forzado do obxectivo. A DX non perde un punto de fado cando propón un forzado: para invocar aspectos teñen unha reserva limitada, pero poden forzar tanto como queiran.
 
-**Compels can be retroactive.** If a player finds they have roleplayed themself into a complication related to one of their aspects or a situation aspect that concerns them, they can ask the GM if that counts as a **self-compel**. If the group agrees, the GM slides the player a fate point.
+**Os forzados poden ser retroactivos.** Se unha xogadora se decata de que, por mor da súa interpretación, acabou metida en problemas relacionados cun dos seus aspectos ou un aspecto de situación que lles atinxe, pode preguntarlle á DX se iso conta como **autoforzado**. Se o grupo está de acordo, a DX pásalle á xogadora un punto de fado.
 
-**It’s okay to recognize a compel as off-the-mark and withdraw it.** If the group agrees that a proposed compel wasn’t appropriate, it should be withdrawn at no cost to the compelled character.
+**Non pasa nada por recoñecer que un forzado está fóra de lugar e retiralo**. Se o grupo acorda que un forzado proposto non é axeitado, debería ser retirado sen custo para a personaxe forzada.
 
-#### Compels Are Complications, Not Stymies
+#### Os forzados son complicacións, non freos
 
-When offering a compel, make sure that the complication is a course of action or major change in circumstance, not a denial of options.
+Cando ofrezas un forzado, asegúrate de que a complicación supón suxerir un novo curso de acción ou mudar as circunstancias, non anular opcións.
 
-“Oh, you’ve got sand in your eyes, so you shoot at the creature and miss,” is not a compel. It denies action rather than complicating anything.
+«Ups, tes area nos ollos, así que disparas á criatura e non lle das» non é un forzado. O que fai é anular unha acción en vez de complicar nada.
 
-“You know, curse your luck, I think that the sand in your eyes means you can’t really see anything. Your shots at the shoggoth go wild, puncturing a few barrels that are now gushing gasoline toward the fire pit.” This is a much better compel. It changes the scene, ratchets up the tension, and gives the players something new to think about.
+«Vaites, que mala sorte, diría que a area que tes nos ollos fai que non poidas ver moito. Os tiros que lle pegas ao shoggoth acaban dando por todas partes, e perforan uns barrís de gasolina que comezan a verquer combustible cara a fogueira». Este forzado é moito mellor. Muda a escena, incrementa a tensión, e dá ás xogadoras novos asuntos aos que atenderen.
 
-For some ideas about what does and doesn’t work as a compel, check out the discussion of types of compels found in _Fate Core System_ starting on page 72 of that book, or online at: <a href="">_https://fate-srd.com/fate-core/invoking-compelling-aspects#types-of-compels_</a>
+Para ler algunhas ideas sobre o que funciona como forzado e o que non, consulta o repaso aos tipos de forzados na <a href="https://fate-srd.com/fate-core/invoking-compelling-aspects#types-of-compels">páxina 72 de _Fate Básico_</a> (versión inglesa), ou igualmente en liña na anterior ligazón.
 
-#### Events and Decisions
+#### Eventos e decisións
 
-There are two general kinds of compels: **events** and **decisions**.
+En xeral, hai dous tipos de forzados: **eventos** e **decisións**.
 
-An event compel is something that happens to a character because of an external force. That external force connects with the aspect in some way, resulting in an unfortunate complication.
+Un forzado de evento é algo que acontece a unha personaxe por mor dunha forza externa. Esa forza externa conecta co aspecto dalgunha forma, resultando nunha desgraciada complicación.
 
-A decision compel is internal, where the character’s flaws or competing values get in the way of better judgment. The aspect guides the character to make a particular choice—and the fallout of that choice creates a complication for them.
+Un forzado de decisión é algo interno, cando os defectos ou os principios opostos da personaxe interfiren co seu bo xuízo. O aspecto leva a personaxe a facer unha escolla en particular, e os efectos colaterais desa escolla son o que lle crean a complicación.
 
-In either case, a resulting complication is key! Without a complication, there is no compel.
+En calquera caso, a complicación resultante é a chave. Sen a complicación, non hai forzado.
 
-#### Hostile Invocations or Compels?
+#### Invocacións hostís ou forzados?
 
-Don’t confuse hostile invocations and compels! Though they are similar—they are ways to give a character an immediate problem in exchange for a fate point—they work differently.
+Non confundas as invocacións hostís e os forzados. Malia que sexan semellantes (ambos os dous son formas de darlle a unha personaxe un problema inmediato a cambio dun punto de fado) funcionan de forma diferente.
 
-A compel creates a _narrative change_. The decision to compel a character’s aspect isn’t something that happens in-universe; rather, it’s the GM or player proposing a change to the story. The effect can be broad, but the target gets the fate point immediately if they accept the compel, and may choose to refuse the compel.
+Un forzado crea _unha mudanza na narrativa_. A decisión de forzar o aspecto dunha personaxe non é algo que aconteza na ficción; máis ben, trátase da DX ou unha xogadora propoñendo unha muda na historia. O efecto pode traer un ronsel, pero o obxectivo obtén o punto de fado inmediatamente se aceptar o forzado, e pode decidir rexeitalo.
 
-A hostile invocation is a _mechanical effect_. The target doesn’t get a chance to refuse the invocation—but as with any invocation, you will need to explain how that aspect makes sense to invoke. And while they do get a fate point, they don’t get to use it in the current scene. However, the ultimate result is much more constrained: a +2 bonus or one reroll of the dice.
+Unha invocación hostil é _un efecto mecánico_. O obxectivo non ten opción a rexeitar a invocación, mais como con calquera invocación, terás que explicar por que ten sentido invocar ese aspecto. E malia que obtén un punto de fado, non poden usalo na escena actual. Porén, o resultado é moito máis limitado: un bonificador +2 ou rolar de novo os dados.
 
-Compels let you, as a player or GM, change what a scene is _about_. They throw a wrench in the narrative. Using them against an opponent is a risky proposition—they might refuse, or accomplish their objective despite the complication thanks to the shiny new fate point you handed them.
+Os forzados permiten, como xogadora ou DX, alterar _de que vai_ a escena. Póñenlle trabas á narrativa. Usalos contra un opoñente é arriscado: poden rexeitalo ou acadar o seu obxectivo a pesar da complicación, grazas a ese novo punto de fado que lle deches.
 
-Hostile invocations help you in the current moment. In addition to your own aspects, you have your opponent’s aspects available to invoke, giving you more options and making scenes more dynamic and connected.
+As invocacións hostís axúdante no momento presente. Ademais dos teus aspectos tamén podes invocar os dos opoñentes, así que tes aínda máis opcións para faceres as escenas máis dinámicas e conectadas.
 
-## How Can I Add and Remove Aspects?
+## Como podo engadir e retirar aspectos?
 
-You can create or discover a situation aspect using the create an advantage action (**page XX**). You may also create boosts that way, or as a result of a tie or success with style when you overcome an obstacle, attack, or defend.
+Podes crear ou descubrir un aspecto de situación usando a acción de [crear unha vantaxe](/fate-condensado/accions-e-roladas#crear-unha-vantaxe). Os impulsos tamén se poden crear desa forma, ou como resultado dun empate ou éxito con estilo cando atacas, defendes ou superas un obstáculo.
 
-You can remove an aspect provided you can think of a way your character could do so—blast the **Raging Fire** with a fire extinguisher, use evasive maneuvers to escape the pursuing guard that’s **On Your Tail**. Depending on the situation, that might require an overcome action (**page XX**); in this case, an opponent could use a defend action to try to preserve the aspect, if they can describe how they do so.
+Podes retirar un aspecto se es quen de pensar como podería eliminalo a túa personaxe: rociando o <aspect>Lume abrasador</aspect> cun extintor ou usando manobras evasivas para escapar do garda que está <aspect>Pisándoche os talóns</aspect>. Dependendo da situación, isto podería requerir unha acción de [superar](/fate-condensado/accions-e-roladas#superar), se for así, un opoñente podería usar a acción de defender para tentar manter o aspecto, se son quen de explicar que fai exactamente.
 
-However, if there’s no narrative block to removing an aspect, you can simply do so. If you’re **All Tied Up** and then a friend unties you, the aspect goes away. If there’s nothing stopping you, there’s no need to roll.
+Con todo, se non hai un obstáculo narrativo para poderes retirar o aspecto, podes retiralo sen máis. Se estás <aspect>Atada e amordazada</aspect> e unha amiga te desata, o aspecto desaparece. Se non hai nada que te pare, non é necesario rolar.
 
-## Other Kinds of Aspects
+## Outros tipos de aspectos
 
-We’ve covered the standard aspect types on **page XX**. These additional types are optional, but may add value to your game. To some extent these are variants on character aspects (if you expand your notion of what counts as a character) and situation aspects (if you change your notion of how long those last).
+Os [tipos habituais de aspectos](#que-tipo-de-aspectos-existen) xa os cobrimos anteriormente. Estes outros son opcionais, pero poden ser de utilidade para a túa partida. En certo sentido, son variantes dos aspectos de personaxe (se expandes a túa idea do que conta como personaxe) e os aspectos de situación (se mudas a túa idea de canto duran).
 
-**Organization aspects:** Sometimes you might be dealing with a whole organization that operates under a certain set of principles. Consider giving the organization aspects which any member of it can access as if it were their own.
+**Aspectos de organización**: Ás veces estaredes a tratar cunha organización enteira que opera baixo certo conxunto de principios. Pensade en darlle á organización aspectos aos que calquera membro poida acceder como se fosen seus.
 
-**Scenario aspects:** Sometimes a particular plot might introduce a new “trope” that shows up time and again in the storyline. Consider defining this as an aspect which is available to all characters in the story until that part of the story concludes.
+**Aspectos de escenario**: Ás veces unha trama en concreto pode introducir un novo elemento recurrente que aparece unha e outra vez na historia. Pensade en definilo como un aspecto dispoñible para todas as personaxes na historia ata que esa parte da trama conclúa.
 
-**Setting aspects:** Like a scenario aspect, the setting of your campaign itself may have recurring themes. Unlike a scenario aspect, these aspects don’t go away.
+**Aspectos de ambientación**: Como nos aspectos de escenario, a ambientación da vosa campaña tamén pode ter temas recurrentes. Contrariamente, estes nunca desaparecen.
 
-**Zone aspects:** You can attach situation aspects to a particular place on the map represented by a zone (**page XX**). This can add extra dynamism to your group’s interactions with the map. A GM can encourage this by making an “up for grabs” free invoke available on a zone aspect at the start of the scene, drawing characters (player and non-player alike) to leverage that aspect as part of their early strategy.
+**Aspectos de zona**: Podes anexarlle aspectos de situación a un lugar concreto do mapa [representado por unha zona](/fate-condensado/desafios-conflitos-e-competicions#zonas). Isto engade dinamismo extra ás interaccións do grupo co mapa. A DX pode alentar esta dinámica creando invocacións de balde libremente dispoñibles nun aspecto de zona ao comeza da escena, atraendo así as personaxes (tanto das xogadoras como non) para se aproveitaren dese aspecto na súa estratexia inicial.

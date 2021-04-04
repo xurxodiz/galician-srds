@@ -29,5 +29,5 @@ A fonte Fate Core é © Evil Hat Productions LLC e úsase baixo permiso. As icon
 
 ### Créditos deste documento SRD
 
-* **Randy Oest**, alias [Amazing Rando](https://randyoest.com/) ([dono do proxecto](https://github.com/amazingrando/fate-srd-content))
+* **Randy Oest**, alias [Amazing Rando](https://randyoest.com/) ([propietario do proxecto](https://github.com/amazingrando/fate-srd-content))
 * [**Xurxo Diz Pico**](http://xurxodiz.eu) (tradución ao galego)
