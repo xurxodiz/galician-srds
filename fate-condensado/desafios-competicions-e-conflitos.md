@@ -27,7 +27,7 @@ Moverse entre zonas é sinxelo, sempre que non haxa nada no teu camiño. **Duran
 
 Se algo non é suficientemente arriscado ou interesante para merecer unha rolada, entón tampouco é un impedimento para moverse. Por exemplo: non necesitas gastar a túa acción abrindo unha porta que non teña fecho; fai parte do movemento mesmo.
 
-Disparar permite atacar a distancia. Os ataques a distancia poden facer albo a inimigos en zonas adxacentes ou mesmo máis afastadas, se as zonas estiveren suficientemente despexadas. Se houbese unha criatura remexendo no dormitorio do andar superior, á volta do recanto, non poderías dispararlle desde abaixo das escaleiras. Mirade ben como están definidas as zonas e os aspectos de situación ao decidirdes o que é lícito e o que non.
+Disparar permite atacar a distancia. Os ataques a distancia poden facer albo a inimigos en zonas adxacentes ou mesmo máis afastadas, sempre que as zonas estiveren suficientemente despexadas. Se houbese unha criatura remexendo no dormitorio do andar superior, á volta do recanto, non poderías dispararlle desde abaixo das escaleiras. Mirade ben como están definidas as zonas e os aspectos de situación ao decidirdes o que é lícito e o que non.
 
 ### Situation Aspects
 
