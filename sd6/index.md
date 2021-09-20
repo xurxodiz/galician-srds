@@ -37,4 +37,4 @@ Para xogar só tes que contar o que fai a túa personaxe Protagonista, como por 
 
 ## Licenza
 
-[SD6](https://silviavicgar.wixsite.com/micobio/sd6) é un xogo de [Silvia Vic Gar](https://silviavicgar.wixsite.com/micobio) licenciado [Creative Commons Atribución-Non comercial-Compartir igual](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.gl). Tradución ao galego pola comunidade de [Vas Dado](https://vasdado.fala.gal/).
+[SD6](https://silviavicgar.wixsite.com/micobio/sd6) é un xogo de [Silvia Vic Gar](https://silviavicgar.wixsite.com/micobio) licenciado [Creative Commons Atribución-Non comercial-Compartir igual](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.gl). Tradución ao galego pola comunidade das [Irmandades do Dado](https://irmandadesdodado.fala.gal/).
