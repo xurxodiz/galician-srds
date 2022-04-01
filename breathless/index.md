@@ -73,7 +73,7 @@ De inicio todas as habilidades teñen un valor d4. Asigna un d10, un d8 e un d6 
 As personaxes teñen un total de 6 habilidades:
 * Golpear: romper, empurrar, forzar.
 * Bulir: correr, saltar, escalar.
-* Escapulirse: espiar, agocharse, disfrazarse.
+* Espiar: axexar, agocharse, disfrazarse.
 * Disparar: rastrear, lanzar, apuntar.
 * Pensar: percibir, analizar, reparar.
 * Mandar: abraiar, manipular, intimidar.
